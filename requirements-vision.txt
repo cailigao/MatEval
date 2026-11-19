@@ -1,0 +1,6 @@
+# Optional: only needed by result_image_analysis (BERTScore + SentenceTransformer)
+# Install with: pip install -r requirements-vision.txt
+sentence-transformers>=2.7.0
+bert-score>=0.3.13
+torch>=2.0.0
+transformers>=4.40.0

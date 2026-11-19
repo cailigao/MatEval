@@ -1,0 +1,799 @@
+{"idx": 0, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "1.jpg", "Da": 2.54, "Db": 1.26}}
+{"idx": 1, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "10.jpg", "Da": 0.69, "Db": 1.34}}
+{"idx": 2, "answer": "```json\n{\"Da\": 0.5, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "11.jpg", "Da": 1.38, "Db": 1.69}}
+{"idx": 3, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "12.jpg", "Da": 2.07, "Db": 2.03}}
+{"idx": 4, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.17}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "13.jpg", "Da": 2.77, "Db": 2.37}}
+{"idx": 5, "answer": "{\"Da\":0.5,\"Db\":0.0}", "model": "ClaudeOpus4.7", "target": {"img_name": "14.jpg", "Da": 0.46, "Db": 1.63}}
+{"idx": 6, "answer": "```json\n{\"Da\": 0.5, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "15.jpg", "Da": 0.92, "Db": 1.86}}
+{"idx": 7, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.5\n}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "16.jpg", "Da": 1.38, "Db": 2.09}}
+{"idx": 8, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "17.jpg", "Da": 1.84, "Db": 2.32}}
+{"idx": 9, "answer": "```json\n{\"Da\": 0.5, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "18.jpg", "Da": 2.3, "Db": 2.55}}
+{"idx": 10, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.5\n}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "19.jpg", "Da": 3.0, "Db": 2.89}}
+{"idx": 11, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.5\n}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "2.jpg", "Da": 0.92, "Db": 0.66}}
+{"idx": 12, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.5\n}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "20.jpg", "Da": 0.23, "Db": 2.11}}
+{"idx": 13, "answer": "```json\n{\"Da\": 0.5, \"Db\": 1.0}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "21.jpg", "Da": 0.69, "Db": 2.34}}
+{"idx": 14, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.5\n}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "22.jpg", "Da": 1.61, "Db": 2.8}}
+{"idx": 15, "answer": "{\"Da\":0.5,\"Db\":0.0}", "model": "ClaudeOpus4.7", "target": {"img_name": "23.jpg", "Da": 2.07, "Db": 3.03}}
+{"idx": 16, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "ClaudeOpus4.7", "target": {"img_name": "24.jpg", "Da": 2.54, "Db": 3.26}}
+{"idx": 17, "answer": "{\"Da\":0.5,\"Db\":0.3}", "model": "ClaudeOpus4.7", "target": {"img_name": "25.jpg", "Da": 3.0, "Db": 3.49}}
+{"idx": 18, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.5\n}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "26.jpg", "Da": 6.12, "Db": 0.23}}
+{"idx": 19, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "27.jpg", "Da": 1.15, "Db": 4.19}}
+{"idx": 20, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "28.jpg", "Da": 1.84, "Db": 0.52}}
+{"idx": 21, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "ClaudeOpus4.7", "target": {"img_name": "29.jpg", "Da": 5.89, "Db": 0.32}}
+{"idx": 22, "answer": "```json\n{\"Da\": 0.5, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "3.jpg", "Da": 2.3, "Db": 1.35}}
+{"idx": 23, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "30.jpg", "Da": 2.07, "Db": 0.43}}
+{"idx": 24, "answer": "```json\n{\"Da\": 0.5, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "31.jpg", "Da": 2.77, "Db": 0.77}}
+{"idx": 25, "answer": "```json\n{\"Da\": 0.5, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "32.jpg", "Da": 5.2, "Db": 0.37}}
+{"idx": 26, "answer": "{\"Da\":0.5,\"Db\":0.0}", "model": "ClaudeOpus4.7", "target": {"img_name": "33.jpg", "Da": 2.77, "Db": 0.37}}
+{"idx": 27, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "34.jpg", "Da": 5.43, "Db": 0.89}}
+{"idx": 28, "answer": "{\"Da\":0.5,\"Db\":0.0}", "model": "ClaudeOpus4.7", "target": {"img_name": "35.jpg", "Da": 4.74, "Db": 0.54}}
+{"idx": 29, "answer": "```json\n{\"Da\": 0.15, \"Db\": 0.25}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "36.jpg", "Da": 0.92, "Db": 5.08}}
+{"idx": 30, "answer": "```json\n{\"Da\": 0.5, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "37.jpg", "Da": 4.97, "Db": 1.06}}
+{"idx": 31, "answer": "{\"Da\":0.5,\"Db\":0.0}", "model": "ClaudeOpus4.7", "target": {"img_name": "38.jpg", "Da": 4.28, "Db": 0.71}}
+{"idx": 32, "answer": "{\"Da\": 0.5, \"Db\": 1.0}", "model": "ClaudeOpus4.7", "target": {"img_name": "39.jpg", "Da": 1.38, "Db": 4.71}}
+{"idx": 33, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "ClaudeOpus4.7", "target": {"img_name": "4.jpg", "Da": 0.69, "Db": 0.94}}
+{"idx": 34, "answer": "```json\n{\"Da\": 0.5, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "40.jpg", "Da": 0.92, "Db": 4.28}}
+{"idx": 35, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "ClaudeOpus4.7", "target": {"img_name": "5.jpg", "Da": 1.61, "Db": 1.4}}
+{"idx": 36, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.5\n}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "6.jpg", "Da": 2.77, "Db": 1.97}}
+{"idx": 37, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.5\n}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "7.jpg", "Da": 0.69, "Db": 1.14}}
+{"idx": 38, "answer": "```json\n{\"Da\": 0.5, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "8.jpg", "Da": 1.61, "Db": 1.6}}
+{"idx": 39, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.7", "target": {"img_name": "9.jpg", "Da": 2.54, "Db": 2.06}}
+{"idx": 0, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "1.jpg", "Da": 2.54, "Db": 1.26}}
+{"idx": 1, "answer": "{\"Da\": 0.33, \"Db\": 0.0}", "model": "ClaudeOpus4.8", "target": {"img_name": "10.jpg", "Da": 0.69, "Db": 1.34}}
+{"idx": 2, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "11.jpg", "Da": 1.38, "Db": 1.69}}
+{"idx": 3, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "12.jpg", "Da": 2.07, "Db": 2.03}}
+{"idx": 4, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.5\n}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "13.jpg", "Da": 2.77, "Db": 2.37}}
+{"idx": 5, "answer": "{\"Da\": 0.33, \"Db\": 0.0}", "model": "ClaudeOpus4.8", "target": {"img_name": "14.jpg", "Da": 0.46, "Db": 1.63}}
+{"idx": 6, "answer": "{\"Da\": 0.33, \"Db\": 0.0}", "model": "ClaudeOpus4.8", "target": {"img_name": "15.jpg", "Da": 0.92, "Db": 1.86}}
+{"idx": 7, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.33}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "16.jpg", "Da": 1.38, "Db": 2.09}}
+{"idx": 8, "answer": "{\"Da\": 0.33, \"Db\": 0.67}", "model": "ClaudeOpus4.8", "target": {"img_name": "17.jpg", "Da": 1.84, "Db": 2.32}}
+{"idx": 9, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "18.jpg", "Da": 2.3, "Db": 2.55}}
+{"idx": 10, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "19.jpg", "Da": 3.0, "Db": 2.89}}
+{"idx": 11, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.5\n}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "2.jpg", "Da": 0.92, "Db": 0.66}}
+{"idx": 12, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "ClaudeOpus4.8", "target": {"img_name": "20.jpg", "Da": 0.23, "Db": 2.11}}
+{"idx": 13, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.5\n}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "21.jpg", "Da": 0.69, "Db": 2.34}}
+{"idx": 14, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "22.jpg", "Da": 1.61, "Db": 2.8}}
+{"idx": 15, "answer": "{\"Da\": 0.33, \"Db\": 0.5}", "model": "ClaudeOpus4.8", "target": {"img_name": "23.jpg", "Da": 2.07, "Db": 3.03}}
+{"idx": 16, "answer": "```json\n{\n  \"Da\": 0.15,\n  \"Db\": 0.32\n}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "24.jpg", "Da": 2.54, "Db": 3.26}}
+{"idx": 17, "answer": "{\"Da\": 0.33, \"Db\": 0.67}", "model": "ClaudeOpus4.8", "target": {"img_name": "25.jpg", "Da": 3.0, "Db": 3.49}}
+{"idx": 18, "answer": "```json\n{\n  \"Da\": 0.5,\n  \"Db\": 0.0\n}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "26.jpg", "Da": 6.12, "Db": 0.23}}
+{"idx": 19, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "ClaudeOpus4.8", "target": {"img_name": "27.jpg", "Da": 1.15, "Db": 4.19}}
+{"idx": 20, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "28.jpg", "Da": 1.84, "Db": 0.52}}
+{"idx": 21, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "29.jpg", "Da": 5.89, "Db": 0.32}}
+{"idx": 22, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "3.jpg", "Da": 2.3, "Db": 1.35}}
+{"idx": 23, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.17}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "30.jpg", "Da": 2.07, "Db": 0.43}}
+{"idx": 24, "answer": "{\"Da\": 0.33, \"Db\": 0.0}", "model": "ClaudeOpus4.8", "target": {"img_name": "31.jpg", "Da": 2.77, "Db": 0.77}}
+{"idx": 25, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.5\n}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "32.jpg", "Da": 5.2, "Db": 0.37}}
+{"idx": 26, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.5\n}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "33.jpg", "Da": 2.77, "Db": 0.37}}
+{"idx": 27, "answer": "```json\n{\"Da\": 0.15, \"Db\": 0.42}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "34.jpg", "Da": 5.43, "Db": 0.89}}
+{"idx": 28, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "35.jpg", "Da": 4.74, "Db": 0.54}}
+{"idx": 29, "answer": "{\"Da\": 0.33, \"Db\": 0.17}", "model": "ClaudeOpus4.8", "target": {"img_name": "36.jpg", "Da": 0.92, "Db": 5.08}}
+{"idx": 30, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "37.jpg", "Da": 4.97, "Db": 1.06}}
+{"idx": 31, "answer": "{\"Da\": 0.33, \"Db\": 0.17}", "model": "ClaudeOpus4.8", "target": {"img_name": "38.jpg", "Da": 4.28, "Db": 0.71}}
+{"idx": 32, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.5\n}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "39.jpg", "Da": 1.38, "Db": 4.71}}
+{"idx": 33, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.5}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "4.jpg", "Da": 0.69, "Db": 0.94}}
+{"idx": 34, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.5\n}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "40.jpg", "Da": 0.92, "Db": 4.28}}
+{"idx": 35, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.33}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "5.jpg", "Da": 1.61, "Db": 1.4}}
+{"idx": 36, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.17}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "6.jpg", "Da": 2.77, "Db": 1.97}}
+{"idx": 37, "answer": "```json\n{\"Da\": 0.5, \"Db\": 0.33}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "7.jpg", "Da": 0.69, "Db": 1.14}}
+{"idx": 38, "answer": "```json\n{\"Da\": 0.5, \"Db\": 0.33}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "8.jpg", "Da": 1.61, "Db": 1.6}}
+{"idx": 39, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.5\n}\n```", "model": "ClaudeOpus4.8", "target": {"img_name": "9.jpg", "Da": 2.54, "Db": 2.06}}
+{"idx": 0, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "1.jpg", "Da": 2.54, "Db": 1.26}}
+{"idx": 1, "answer": "{\"Da\": 0.0, \"Db\": 0.5}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "10.jpg", "Da": 0.69, "Db": 1.34}}
+{"idx": 2, "answer": "{\"Da\": 0.33, \"Db\": 0.67}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "11.jpg", "Da": 1.38, "Db": 1.69}}
+{"idx": 3, "answer": "{\"Da\": 0.0, \"Db\": 0.5}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "12.jpg", "Da": 2.07, "Db": 2.03}}
+{"idx": 4, "answer": "{\"Da\": 0.0, \"Db\": 0.4}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "13.jpg", "Da": 2.77, "Db": 2.37}}
+{"idx": 5, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "14.jpg", "Da": 0.46, "Db": 1.63}}
+{"idx": 6, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "15.jpg", "Da": 0.92, "Db": 1.86}}
+{"idx": 7, "answer": "{\"Da\": 0.33, \"Db\": 0.67}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "16.jpg", "Da": 1.38, "Db": 2.09}}
+{"idx": 8, "answer": "{\"Da\": 0.33, \"Db\": 0.67}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "17.jpg", "Da": 1.84, "Db": 2.32}}
+{"idx": 9, "answer": "{\"Da\": 0.0, \"Db\": 0.5}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "18.jpg", "Da": 2.3, "Db": 2.55}}
+{"idx": 10, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "19.jpg", "Da": 3.0, "Db": 2.89}}
+{"idx": 11, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "2.jpg", "Da": 0.92, "Db": 0.66}}
+{"idx": 12, "answer": "{\"Da\": 0.0, \"Db\": 0.5}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "20.jpg", "Da": 0.23, "Db": 2.11}}
+{"idx": 13, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "21.jpg", "Da": 0.69, "Db": 2.34}}
+{"idx": 14, "answer": "{\"Da\": 0.5, \"Db\": 0.33}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "22.jpg", "Da": 1.61, "Db": 2.8}}
+{"idx": 15, "answer": "{\"Da\": 0.33, \"Db\": 0.67}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "23.jpg", "Da": 2.07, "Db": 3.03}}
+{"idx": 16, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "24.jpg", "Da": 2.54, "Db": 3.26}}
+{"idx": 17, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "25.jpg", "Da": 3.0, "Db": 3.49}}
+{"idx": 18, "answer": "{\"Da\": 0.33, \"Db\": 0.67}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "26.jpg", "Da": 6.12, "Db": 0.23}}
+{"idx": 19, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "27.jpg", "Da": 1.15, "Db": 4.19}}
+{"idx": 20, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "28.jpg", "Da": 1.84, "Db": 0.52}}
+{"idx": 21, "answer": "{\"Da\": 0.5, \"Db\": 0.6}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "29.jpg", "Da": 5.89, "Db": 0.32}}
+{"idx": 22, "answer": "{\"Da\": 0.33, \"Db\": 0.67}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "3.jpg", "Da": 2.3, "Db": 1.35}}
+{"idx": 23, "answer": "{\"Da\": 0.0, \"Db\": 0.5}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "30.jpg", "Da": 2.07, "Db": 0.43}}
+{"idx": 24, "answer": "{\"Da\": 0.0, \"Db\": 0.5}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "31.jpg", "Da": 2.77, "Db": 0.77}}
+{"idx": 25, "answer": "{\"Da\": 0.33, \"Db\": 0.67}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "32.jpg", "Da": 5.2, "Db": 0.37}}
+{"idx": 26, "answer": "{\"Da\": 0.25, \"Db\": 0.0}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "33.jpg", "Da": 2.77, "Db": 0.37}}
+{"idx": 27, "answer": "{\"Da\": 0.33, \"Db\": 0.67}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "34.jpg", "Da": 5.43, "Db": 0.89}}
+{"idx": 28, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "35.jpg", "Da": 4.74, "Db": 0.54}}
+{"idx": 29, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "36.jpg", "Da": 0.92, "Db": 5.08}}
+{"idx": 30, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "37.jpg", "Da": 4.97, "Db": 1.06}}
+{"idx": 31, "answer": "{\"Da\": 0.0, \"Db\": 0.5}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "38.jpg", "Da": 4.28, "Db": 0.71}}
+{"idx": 32, "answer": "{\"Da\": 0.0, \"Db\": 0.5}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "39.jpg", "Da": 1.38, "Db": 4.71}}
+{"idx": 33, "answer": "{\"Da\": 0.0, \"Db\": 0.5}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "4.jpg", "Da": 0.69, "Db": 0.94}}
+{"idx": 34, "answer": "{\"Da\": 0.0, \"Db\": 0.3}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "40.jpg", "Da": 0.92, "Db": 4.28}}
+{"idx": 35, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "5.jpg", "Da": 1.61, "Db": 1.4}}
+{"idx": 36, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "6.jpg", "Da": 2.77, "Db": 1.97}}
+{"idx": 37, "answer": "{\"Da\": 0.4, \"Db\": 0.0}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "7.jpg", "Da": 0.69, "Db": 1.14}}
+{"idx": 38, "answer": "{\"Da\": 0.33, \"Db\": 0.67}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "8.jpg", "Da": 1.61, "Db": 1.6}}
+{"idx": 39, "answer": "{\"Da\": 0.33, \"Db\": 0.5}", "model": "Doubao-Seed-2-1-turbo", "target": {"img_name": "9.jpg", "Da": 2.54, "Db": 2.06}}
+{"idx": 0, "answer": "{\"Da\":0.25,\"Db\":0.25}", "model": "GPT-5.6Sol", "target": {"img_name": "1.jpg", "Da": 2.54, "Db": 1.26}}
+{"idx": 1, "answer": "{\"Da\":0.2,\"Db\":0.2}", "model": "GPT-5.6Sol", "target": {"img_name": "10.jpg", "Da": 0.69, "Db": 1.34}}
+{"idx": 2, "answer": "{\"Da\":0.15,\"Db\":0.1}", "model": "GPT-5.6Sol", "target": {"img_name": "11.jpg", "Da": 1.38, "Db": 1.69}}
+{"idx": 3, "answer": "{\"Da\":0.25,\"Db\":0.25}", "model": "GPT-5.6Sol", "target": {"img_name": "12.jpg", "Da": 2.07, "Db": 2.03}}
+{"idx": 4, "answer": "{\"Da\":0.0,\"Db\":0.5}", "model": "GPT-5.6Sol", "target": {"img_name": "13.jpg", "Da": 2.77, "Db": 2.37}}
+{"idx": 5, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Sol", "target": {"img_name": "14.jpg", "Da": 0.46, "Db": 1.63}}
+{"idx": 6, "answer": "{\"Da\":0.0,\"Db\":0.0}", "model": "GPT-5.6Sol", "target": {"img_name": "15.jpg", "Da": 0.92, "Db": 1.86}}
+{"idx": 7, "answer": "{\"Da\":0.04,\"Db\":0.2}", "model": "GPT-5.6Sol", "target": {"img_name": "16.jpg", "Da": 1.38, "Db": 2.09}}
+{"idx": 8, "answer": "{\"Da\":0.2,\"Db\":0.2}", "model": "GPT-5.6Sol", "target": {"img_name": "17.jpg", "Da": 1.84, "Db": 2.32}}
+{"idx": 9, "answer": "{\"Da\":0.36,\"Db\":0.17}", "model": "GPT-5.6Sol", "target": {"img_name": "18.jpg", "Da": 2.3, "Db": 2.55}}
+{"idx": 10, "answer": "{\"Da\":0.35,\"Db\":0.2}", "model": "GPT-5.6Sol", "target": {"img_name": "19.jpg", "Da": 3.0, "Db": 2.89}}
+{"idx": 11, "answer": "{\"Da\":0.0,\"Db\":0.0}", "model": "GPT-5.6Sol", "target": {"img_name": "2.jpg", "Da": 0.92, "Db": 0.66}}
+{"idx": 12, "answer": "{\"Da\":0.0,\"Db\":0.2}", "model": "GPT-5.6Sol", "target": {"img_name": "20.jpg", "Da": 0.23, "Db": 2.11}}
+{"idx": 13, "answer": "{\"Da\":0.5,\"Db\":0.0}", "model": "GPT-5.6Sol", "target": {"img_name": "21.jpg", "Da": 0.69, "Db": 2.34}}
+{"idx": 14, "answer": "{\"Da\":0.5,\"Db\":0}", "model": "GPT-5.6Sol", "target": {"img_name": "22.jpg", "Da": 1.61, "Db": 2.8}}
+{"idx": 15, "answer": "{\"Da\":0.0,\"Db\":0.0}", "model": "GPT-5.6Sol", "target": {"img_name": "23.jpg", "Da": 2.07, "Db": 3.03}}
+{"idx": 16, "answer": "{\"Da\":0.0,\"Db\":0.5}", "model": "GPT-5.6Sol", "target": {"img_name": "24.jpg", "Da": 2.54, "Db": 3.26}}
+{"idx": 17, "answer": "{\"Da\":-0.1,\"Db\":0.2}", "model": "GPT-5.6Sol", "target": {"img_name": "25.jpg", "Da": 3.0, "Db": 3.49}}
+{"idx": 18, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Sol", "target": {"img_name": "26.jpg", "Da": 6.12, "Db": 0.23}}
+{"idx": 19, "answer": "{\"Da\":0.2,\"Db\":0.1}", "model": "GPT-5.6Sol", "target": {"img_name": "27.jpg", "Da": 1.15, "Db": 4.19}}
+{"idx": 20, "answer": "{\"Da\":0.28,\"Db\":0.16}", "model": "GPT-5.6Sol", "target": {"img_name": "28.jpg", "Da": 1.84, "Db": 0.52}}
+{"idx": 21, "answer": "{\"Da\":0.33,\"Db\":0.24}", "model": "GPT-5.6Sol", "target": {"img_name": "29.jpg", "Da": 5.89, "Db": 0.32}}
+{"idx": 22, "answer": "{\"Da\":0.25,\"Db\":0.5}", "model": "GPT-5.6Sol", "target": {"img_name": "3.jpg", "Da": 2.3, "Db": 1.35}}
+{"idx": 23, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Sol", "target": {"img_name": "30.jpg", "Da": 2.07, "Db": 0.43}}
+{"idx": 24, "answer": "{\"Da\":0.25,\"Db\":0.5}", "model": "GPT-5.6Sol", "target": {"img_name": "31.jpg", "Da": 2.77, "Db": 0.77}}
+{"idx": 25, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Sol", "target": {"img_name": "32.jpg", "Da": 5.2, "Db": 0.37}}
+{"idx": 26, "answer": "{\"Da\":0.25,\"Db\":0.05}", "model": "GPT-5.6Sol", "target": {"img_name": "33.jpg", "Da": 2.77, "Db": 0.37}}
+{"idx": 27, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Sol", "target": {"img_name": "34.jpg", "Da": 5.43, "Db": 0.89}}
+{"idx": 28, "answer": "{\"Da\":0.25,\"Db\":0.25}", "model": "GPT-5.6Sol", "target": {"img_name": "35.jpg", "Da": 4.74, "Db": 0.54}}
+{"idx": 29, "answer": "{\"Da\":0.36,\"Db\":0.2}", "model": "GPT-5.6Sol", "target": {"img_name": "36.jpg", "Da": 0.92, "Db": 5.08}}
+{"idx": 30, "answer": "{\"Da\":0.06,\"Db\":0.17}", "model": "GPT-5.6Sol", "target": {"img_name": "37.jpg", "Da": 4.97, "Db": 1.06}}
+{"idx": 31, "answer": "{\"Da\":0.0,\"Db\":0.1}", "model": "GPT-5.6Sol", "target": {"img_name": "38.jpg", "Da": 4.28, "Db": 0.71}}
+{"idx": 32, "answer": "{\"Da\":0.0,\"Db\":0.25}", "model": "GPT-5.6Sol", "target": {"img_name": "39.jpg", "Da": 1.38, "Db": 4.71}}
+{"idx": 33, "answer": "{\"Da\":0.15,\"Db\":0.05}", "model": "GPT-5.6Sol", "target": {"img_name": "4.jpg", "Da": 0.69, "Db": 0.94}}
+{"idx": 34, "answer": "{\"Da\":0.1,\"Db\":0.1}", "model": "GPT-5.6Sol", "target": {"img_name": "40.jpg", "Da": 0.92, "Db": 4.28}}
+{"idx": 35, "answer": "{\"Da\":0.25,\"Db\":0.25}", "model": "GPT-5.6Sol", "target": {"img_name": "5.jpg", "Da": 1.61, "Db": 1.4}}
+{"idx": 36, "answer": "{\"Da\":0.25,\"Db\":0.25}", "model": "GPT-5.6Sol", "target": {"img_name": "6.jpg", "Da": 2.77, "Db": 1.97}}
+{"idx": 37, "answer": "{\"Da\":0.33,\"Db\":0.25}", "model": "GPT-5.6Sol", "target": {"img_name": "7.jpg", "Da": 0.69, "Db": 1.14}}
+{"idx": 38, "answer": "{\"Da\":0.1,\"Db\":0.1}", "model": "GPT-5.6Sol", "target": {"img_name": "8.jpg", "Da": 1.61, "Db": 1.6}}
+{"idx": 39, "answer": "{\"Da\":0.0,\"Db\":0.2}", "model": "GPT-5.6Sol", "target": {"img_name": "9.jpg", "Da": 2.54, "Db": 2.06}}
+{"idx": 0, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "1.jpg", "Da": 2.54, "Db": 1.26}}
+{"idx": 1, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "10.jpg", "Da": 0.69, "Db": 1.34}}
+{"idx": 2, "answer": "{\"Da\":0.0,\"Db\":0.0}", "model": "GPT-5.6Terra", "target": {"img_name": "11.jpg", "Da": 1.38, "Db": 1.69}}
+{"idx": 3, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "12.jpg", "Da": 2.07, "Db": 2.03}}
+{"idx": 4, "answer": "{\"Da\":0.2,\"Db\":0.1}", "model": "GPT-5.6Terra", "target": {"img_name": "13.jpg", "Da": 2.77, "Db": 2.37}}
+{"idx": 5, "answer": "{\"Da\":0.1,\"Db\":0.1}", "model": "GPT-5.6Terra", "target": {"img_name": "14.jpg", "Da": 0.46, "Db": 1.63}}
+{"idx": 6, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "15.jpg", "Da": 0.92, "Db": 1.86}}
+{"idx": 7, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "16.jpg", "Da": 1.38, "Db": 2.09}}
+{"idx": 8, "answer": "{\"Da\":0,\"Db\":0}", "model": "GPT-5.6Terra", "target": {"img_name": "17.jpg", "Da": 1.84, "Db": 2.32}}
+{"idx": 9, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "18.jpg", "Da": 2.3, "Db": 2.55}}
+{"idx": 10, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "19.jpg", "Da": 3.0, "Db": 2.89}}
+{"idx": 11, "answer": "{\"Da\":0,\"Db\":0}", "model": "GPT-5.6Terra", "target": {"img_name": "2.jpg", "Da": 0.92, "Db": 0.66}}
+{"idx": 12, "answer": "{\"Da\":0,\"Db\":0}", "model": "GPT-5.6Terra", "target": {"img_name": "20.jpg", "Da": 0.23, "Db": 2.11}}
+{"idx": 13, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "21.jpg", "Da": 0.69, "Db": 2.34}}
+{"idx": 14, "answer": "{\"Da\":0,\"Db\":0}", "model": "GPT-5.6Terra", "target": {"img_name": "22.jpg", "Da": 1.61, "Db": 2.8}}
+{"idx": 15, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "23.jpg", "Da": 2.07, "Db": 3.03}}
+{"idx": 16, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "24.jpg", "Da": 2.54, "Db": 3.26}}
+{"idx": 17, "answer": "{\"Da\":0,\"Db\":0}", "model": "GPT-5.6Terra", "target": {"img_name": "25.jpg", "Da": 3.0, "Db": 3.49}}
+{"idx": 18, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "26.jpg", "Da": 6.12, "Db": 0.23}}
+{"idx": 19, "answer": "{\"Da\":0,\"Db\":0}", "model": "GPT-5.6Terra", "target": {"img_name": "27.jpg", "Da": 1.15, "Db": 4.19}}
+{"idx": 20, "answer": "{\"Da\":0,\"Db\":0}", "model": "GPT-5.6Terra", "target": {"img_name": "28.jpg", "Da": 1.84, "Db": 0.52}}
+{"idx": 21, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "29.jpg", "Da": 5.89, "Db": 0.32}}
+{"idx": 22, "answer": "{\"Da\":0,\"Db\":0}", "model": "GPT-5.6Terra", "target": {"img_name": "3.jpg", "Da": 2.3, "Db": 1.35}}
+{"idx": 23, "answer": "{\"Da\":0.0,\"Db\":0.0}", "model": "GPT-5.6Terra", "target": {"img_name": "30.jpg", "Da": 2.07, "Db": 0.43}}
+{"idx": 24, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "31.jpg", "Da": 2.77, "Db": 0.77}}
+{"idx": 25, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "32.jpg", "Da": 5.2, "Db": 0.37}}
+{"idx": 26, "answer": "{\"Da\":0.35,\"Db\":0.7}", "model": "GPT-5.6Terra", "target": {"img_name": "33.jpg", "Da": 2.77, "Db": 0.37}}
+{"idx": 27, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "34.jpg", "Da": 5.43, "Db": 0.89}}
+{"idx": 28, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "35.jpg", "Da": 4.74, "Db": 0.54}}
+{"idx": 29, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "36.jpg", "Da": 0.92, "Db": 5.08}}
+{"idx": 30, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "37.jpg", "Da": 4.97, "Db": 1.06}}
+{"idx": 31, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "38.jpg", "Da": 4.28, "Db": 0.71}}
+{"idx": 32, "answer": "{\"Da\":0.25,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "39.jpg", "Da": 1.38, "Db": 4.71}}
+{"idx": 33, "answer": "{\"Da\":0,\"Db\":0}", "model": "GPT-5.6Terra", "target": {"img_name": "4.jpg", "Da": 0.69, "Db": 0.94}}
+{"idx": 34, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "40.jpg", "Da": 0.92, "Db": 4.28}}
+{"idx": 35, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "5.jpg", "Da": 1.61, "Db": 1.4}}
+{"idx": 36, "answer": "{\"Da\":0,\"Db\":0}", "model": "GPT-5.6Terra", "target": {"img_name": "6.jpg", "Da": 2.77, "Db": 1.97}}
+{"idx": 37, "answer": "{\"Da\":0.25,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "7.jpg", "Da": 0.69, "Db": 1.14}}
+{"idx": 38, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "8.jpg", "Da": 1.61, "Db": 1.6}}
+{"idx": 39, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT-5.6Terra", "target": {"img_name": "9.jpg", "Da": 2.54, "Db": 2.06}}
+{"idx": 0, "answer": "```json\n{\n  \"Da\": 0.45,\n  \"Db\": 0.38\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "1.jpg", "Da": 2.54, "Db": 1.26}}
+{"idx": 1, "answer": "```json\n{\n  \"Da\": 0.4,\n  \"Db\": 0.6\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "10.jpg", "Da": 0.69, "Db": 1.34}}
+{"idx": 2, "answer": "```json\n{\n  \"Da\": 0.45,\n  \"Db\": 0.55\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "11.jpg", "Da": 1.38, "Db": 1.69}}
+{"idx": 3, "answer": "```json\n{\n  \"Da\": 0.81,\n  \"Db\": 0.16\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "12.jpg", "Da": 2.07, "Db": 2.03}}
+{"idx": 4, "answer": "{\n  \"Da\": 0.25,\n  \"Db\": 0.50\n}", "model": "Gemini3.1ProPreview", "target": {"img_name": "13.jpg", "Da": 2.77, "Db": 2.37}}
+{"idx": 5, "answer": "{\n  \"Da\": 0.45,\n  \"Db\": 0.65\n}", "model": "Gemini3.1ProPreview", "target": {"img_name": "14.jpg", "Da": 0.46, "Db": 1.63}}
+{"idx": 6, "answer": "```json\n{\n  \"Da\": 0.44,\n  \"Db\": 0.77\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "15.jpg", "Da": 0.92, "Db": 1.86}}
+{"idx": 7, "answer": "```json\n{\n  \"Da\": 0.6,\n  \"Db\": 0.9\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "16.jpg", "Da": 1.38, "Db": 2.09}}
+{"idx": 8, "answer": "{\n  \"Da\": 0.35,\n  \"Db\": 0.65\n}", "model": "Gemini3.1ProPreview", "target": {"img_name": "17.jpg", "Da": 1.84, "Db": 2.32}}
+{"idx": 9, "answer": "```json\n{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "18.jpg", "Da": 2.3, "Db": 2.55}}
+{"idx": 10, "answer": "```json\n{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "19.jpg", "Da": 3.0, "Db": 2.89}}
+{"idx": 11, "answer": "```json\n{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "2.jpg", "Da": 0.92, "Db": 0.66}}
+{"idx": 12, "answer": "```json\n{\"Da\": 0.4, \"Db\": 0.53}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "20.jpg", "Da": 0.23, "Db": 2.11}}
+{"idx": 13, "answer": "```json\n{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "21.jpg", "Da": 0.69, "Db": 2.34}}
+{"idx": 14, "answer": "```json\n{\n  \"Da\": 0.5,\n  \"Db\": 0.1\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "22.jpg", "Da": 1.61, "Db": 2.8}}
+{"idx": 15, "answer": "```json\n{\n  \"Da\": 0.44,\n  \"Db\": 0.8\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "23.jpg", "Da": 2.07, "Db": 3.03}}
+{"idx": 16, "answer": "```json\n{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "24.jpg", "Da": 2.54, "Db": 3.26}}
+{"idx": 17, "answer": "```json\n{\n  \"Da\": 0.45,\n  \"Db\": 0.15\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "25.jpg", "Da": 3.0, "Db": 3.49}}
+{"idx": 18, "answer": "```json\n{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "26.jpg", "Da": 6.12, "Db": 0.23}}
+{"idx": 19, "answer": "{\n  \"Da\": 0.25,\n  \"Db\": 0.2\n}", "model": "Gemini3.1ProPreview", "target": {"img_name": "27.jpg", "Da": 1.15, "Db": 4.19}}
+{"idx": 20, "answer": "```json\n{\n  \"Da\": 0.7,\n  \"Db\": 0.2\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "28.jpg", "Da": 1.84, "Db": 0.52}}
+{"idx": 21, "answer": "```json\n{\n  \"Da\": 0.4,\n  \"Db\": 0.3\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "29.jpg", "Da": 5.89, "Db": 0.32}}
+{"idx": 22, "answer": "```json\n{\n  \"Da\": 0.2,\n  \"Db\": 0.8\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "3.jpg", "Da": 2.3, "Db": 1.35}}
+{"idx": 23, "answer": "```json\n{\n  \"Da\": 0.73,\n  \"Db\": 0.9\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "30.jpg", "Da": 2.07, "Db": 0.43}}
+{"idx": 24, "answer": "```json\n{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "31.jpg", "Da": 2.77, "Db": 0.77}}
+{"idx": 25, "answer": "```json\n{\n  \"Da\": 0.50,\n  \"Db\": 0.50\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "32.jpg", "Da": 5.2, "Db": 0.37}}
+{"idx": 26, "answer": "```json\n{\"Da\": 0.0, \"Db\": 0.0}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "33.jpg", "Da": 2.77, "Db": 0.37}}
+{"idx": 27, "answer": "{\n  \"Da\": 0.33,\n  \"Db\": 0.67\n}", "model": "Gemini3.1ProPreview", "target": {"img_name": "34.jpg", "Da": 5.43, "Db": 0.89}}
+{"idx": 28, "answer": "{\n  \"Da\": 0.4,\n  \"Db\": 0.6\n}", "model": "Gemini3.1ProPreview", "target": {"img_name": "35.jpg", "Da": 4.74, "Db": 0.54}}
+{"idx": 29, "answer": "```json\n{\n  \"Da\": 0.44,\n  \"Db\": 0.54\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "36.jpg", "Da": 0.92, "Db": 5.08}}
+{"idx": 30, "answer": "```json\n{\n  \"Da\": 0.40,\n  \"Db\": 0.20\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "37.jpg", "Da": 4.97, "Db": 1.06}}
+{"idx": 31, "answer": "```json\n{\n  \"Da\": 0.45,\n  \"Db\": 0.55\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "38.jpg", "Da": 4.28, "Db": 0.71}}
+{"idx": 32, "answer": "```json\n{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "39.jpg", "Da": 1.38, "Db": 4.71}}
+{"idx": 33, "answer": "```json\n{\n  \"Da\": 0.2,\n  \"Db\": 0.7\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "4.jpg", "Da": 0.69, "Db": 0.94}}
+{"idx": 34, "answer": "```json\n{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "40.jpg", "Da": 0.92, "Db": 4.28}}
+{"idx": 35, "answer": "```json\n{\n  \"Da\": 0.3,\n  \"Db\": 0.7\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "5.jpg", "Da": 1.61, "Db": 1.4}}
+{"idx": 36, "answer": "{\n  \"Da\": 0.4,\n  \"Db\": 0.6\n}", "model": "Gemini3.1ProPreview", "target": {"img_name": "6.jpg", "Da": 2.77, "Db": 1.97}}
+{"idx": 37, "answer": "```json\n{\n  \"Da\": 0.34,\n  \"Db\": 0.51\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "7.jpg", "Da": 0.69, "Db": 1.14}}
+{"idx": 38, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.0\n}", "model": "Gemini3.1ProPreview", "target": {"img_name": "8.jpg", "Da": 1.61, "Db": 1.6}}
+{"idx": 39, "answer": "```json\n{\n  \"Da\": 0.45,\n  \"Db\": 0.05\n}\n```", "model": "Gemini3.1ProPreview", "target": {"img_name": "9.jpg", "Da": 2.54, "Db": 2.06}}
+{"idx": 0, "answer": "```json\n{\n  \"Da\": 0.38,\n  \"Db\": 0.62\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "1.jpg", "Da": 2.54, "Db": 1.26}}
+{"idx": 1, "answer": "```json\n{\n  \"Da\": 0.38,\n  \"Db\": 0.24\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "10.jpg", "Da": 0.69, "Db": 1.34}}
+{"idx": 2, "answer": "Truncated answer. The model output was cut off before producing a valid JSON response with Da/Db values.", "model": "Gemini3.6Flash", "target": {"img_name": "11.jpg", "Da": 1.38, "Db": 1.69}}
+{"idx": 3, "answer": "```json\n{\n  \"Da\": 0.28,\n  \"Db\": 0.52\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "12.jpg", "Da": 2.07, "Db": 2.03}}
+{"idx": 4, "answer": "```json\n{\n  \"Da\": 0.2,\n  \"Db\": 0.1\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "13.jpg", "Da": 2.77, "Db": 2.37}}
+{"idx": 5, "answer": "```json\n{\n  \"Da\": 0.22,\n  \"Db\": 0.14\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "14.jpg", "Da": 0.46, "Db": 1.63}}
+{"idx": 6, "answer": "```json\n{\n  \"Da\": 0.25,\n  \"Db\": 0.35\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "15.jpg", "Da": 0.92, "Db": 1.86}}
+{"idx": 7, "answer": "```json\n{\n  \"Da\": 0.0,\n  \"Db\": 0.23\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "16.jpg", "Da": 1.38, "Db": 2.09}}
+{"idx": 8, "answer": "```json\n{\n  \"Da\": 0.32,\n  \"Db\": 0.45\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "17.jpg", "Da": 1.84, "Db": 2.32}}
+{"idx": 9, "answer": "```json\n{\n  \"Da\": 0.35,\n  \"Db\": 0.25\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "18.jpg", "Da": 2.3, "Db": 2.55}}
+{"idx": 10, "answer": "```json\n{\n  \"Da\": 0.25,\n  \"Db\": 0.75\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "19.jpg", "Da": 3.0, "Db": 2.89}}
+{"idx": 11, "answer": "```json\n{\n  \"Da\": 0.25,\n  \"Db\": 0.35\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "2.jpg", "Da": 0.92, "Db": 0.66}}
+{"idx": 12, "answer": "```json\n{\n  \"Da\": 0.3,\n  \"Db\": 0.2\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "20.jpg", "Da": 0.23, "Db": 2.11}}
+{"idx": 13, "answer": "```json\n{\n  \"Da\": 0.35,\n  \"Db\": 0.25\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "21.jpg", "Da": 0.69, "Db": 2.34}}
+{"idx": 14, "answer": "```json\n{\n  \"Da\": 0.32,\n  \"Db\": 0.54\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "22.jpg", "Da": 1.61, "Db": 2.8}}
+{"idx": 15, "answer": "```json\n{\n  \"Da\": 0.35,\n  \"Db\": 0.65\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "23.jpg", "Da": 2.07, "Db": 3.03}}
+{"idx": 16, "answer": "```json\n{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "24.jpg", "Da": 2.54, "Db": 3.26}}
+{"idx": 17, "answer": "```json\n{\"Da\": 0.35, \"Db\": 0.62}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "25.jpg", "Da": 3.0, "Db": 3.49}}
+{"idx": 18, "answer": "Truncated answer. The model output was cut off before producing a valid JSON response with Da/Db values.", "model": "Gemini3.6Flash", "target": {"img_name": "26.jpg", "Da": 6.12, "Db": 0.23}}
+{"idx": 19, "answer": "```json\n{\n  \"Da\": 0.25,\n  \"Db\": 0.75\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "27.jpg", "Da": 1.15, "Db": 4.19}}
+{"idx": 20, "answer": "```json\n{\n  \"Da\": 0.25,\n  \"Db\": 0.45\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "28.jpg", "Da": 1.84, "Db": 0.52}}
+{"idx": 21, "answer": "```json\n{\n  \"Da\": 0.25,\n  \"Db\": 0.5\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "29.jpg", "Da": 5.89, "Db": 0.32}}
+{"idx": 22, "answer": "```json\n{\n  \"Da\": 0.38,\n  \"Db\": 0.62\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "3.jpg", "Da": 2.3, "Db": 1.35}}
+{"idx": 23, "answer": "```json\n{\n  \"Da\": 0.18,\n  \"Db\": 0.82\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "30.jpg", "Da": 2.07, "Db": 0.43}}
+{"idx": 24, "answer": "```json\n{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "31.jpg", "Da": 2.77, "Db": 0.77}}
+{"idx": 25, "answer": "```json\n{\n  \"Da\": 0.3,\n  \"Db\": 0.7\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "32.jpg", "Da": 5.2, "Db": 0.37}}
+{"idx": 26, "answer": "```json\n{\n  \"Da\": 0.25,\n  \"Db\": 0.35\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "33.jpg", "Da": 2.77, "Db": 0.37}}
+{"idx": 27, "answer": "```json\n{\n  \"Da\": 0.35,\n  \"Db\": 0.65\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "34.jpg", "Da": 5.43, "Db": 0.89}}
+{"idx": 28, "answer": "```json\n{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "35.jpg", "Da": 4.74, "Db": 0.54}}
+{"idx": 29, "answer": "```json\n{\n  \"Da\": 0.0,\n  \"Db\": 0.0\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "36.jpg", "Da": 0.92, "Db": 5.08}}
+{"idx": 30, "answer": "```json\n{\n  \"Da\": 0.25,\n  \"Db\": 0.38\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "37.jpg", "Da": 4.97, "Db": 1.06}}
+{"idx": 31, "answer": "Truncated answer. The model output was cut off before producing a valid JSON response with Da/Db values.", "model": "Gemini3.6Flash", "target": {"img_name": "38.jpg", "Da": 4.28, "Db": 0.71}}
+{"idx": 32, "answer": "```json\n{\n  \"Da\": 0.35,\n  \"Db\": 0.25\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "39.jpg", "Da": 1.38, "Db": 4.71}}
+{"idx": 33, "answer": "```json\n{\n  \"Da\": 0.25,\n  \"Db\": 0.35\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "4.jpg", "Da": 0.69, "Db": 0.94}}
+{"idx": 34, "answer": "```json\n{\n  \"Da\": 0.52,\n  \"Db\": 0.32\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "40.jpg", "Da": 0.92, "Db": 4.28}}
+{"idx": 35, "answer": "```json\n{\n  \"Da\": 0.35,\n  \"Db\": 0.65\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "5.jpg", "Da": 1.61, "Db": 1.4}}
+{"idx": 36, "answer": "```json\n{\n  \"Da\": 0.14,\n  \"Db\": 0.0\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "6.jpg", "Da": 2.77, "Db": 1.97}}
+{"idx": 37, "answer": "```json\n{\n  \"Da\": 0.4,\n  \"Db\": 0.2\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "7.jpg", "Da": 0.69, "Db": 1.14}}
+{"idx": 38, "answer": "```json\n{\n  \"Da\": 0.3,\n  \"Db\": 0.2\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "8.jpg", "Da": 1.61, "Db": 1.6}}
+{"idx": 39, "answer": "```json\n{\n  \"Da\": 0.35,\n  \"Db\": 0.65\n}\n```", "model": "Gemini3.6Flash", "target": {"img_name": "9.jpg", "Da": 2.54, "Db": 2.06}}
+{"idx": 0, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "1.jpg", "Da": 2.54, "Db": 1.26}}
+{"idx": 1, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "10.jpg", "Da": 0.69, "Db": 1.34}}
+{"idx": 2, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "11.jpg", "Da": 1.38, "Db": 1.69}}
+{"idx": 3, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "12.jpg", "Da": 2.07, "Db": 2.03}}
+{"idx": 4, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "13.jpg", "Da": 2.77, "Db": 2.37}}
+{"idx": 5, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "14.jpg", "Da": 0.46, "Db": 1.63}}
+{"idx": 6, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "15.jpg", "Da": 0.92, "Db": 1.86}}
+{"idx": 7, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "16.jpg", "Da": 1.38, "Db": 2.09}}
+{"idx": 8, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "17.jpg", "Da": 1.84, "Db": 2.32}}
+{"idx": 9, "answer": "{'Da': 0.5, 'Db': 0.5}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "18.jpg", "Da": 2.3, "Db": 2.55}}
+{"idx": 10, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "19.jpg", "Da": 3.0, "Db": 2.89}}
+{"idx": 11, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "2.jpg", "Da": 0.92, "Db": 0.66}}
+{"idx": 12, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "20.jpg", "Da": 0.23, "Db": 2.11}}
+{"idx": 13, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "21.jpg", "Da": 0.69, "Db": 2.34}}
+{"idx": 14, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "22.jpg", "Da": 1.61, "Db": 2.8}}
+{"idx": 15, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "23.jpg", "Da": 2.07, "Db": 3.03}}
+{"idx": 16, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "24.jpg", "Da": 2.54, "Db": 3.26}}
+{"idx": 17, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "25.jpg", "Da": 3.0, "Db": 3.49}}
+{"idx": 18, "answer": "{'Da': 0.5, 'Db': 0.5}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "26.jpg", "Da": 6.12, "Db": 0.23}}
+{"idx": 19, "answer": "{'Da': 0.5, 'Db': 0.5}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "27.jpg", "Da": 1.15, "Db": 4.19}}
+{"idx": 20, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "28.jpg", "Da": 1.84, "Db": 0.52}}
+{"idx": 21, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "29.jpg", "Da": 5.89, "Db": 0.32}}
+{"idx": 22, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "3.jpg", "Da": 2.3, "Db": 1.35}}
+{"idx": 23, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "30.jpg", "Da": 2.07, "Db": 0.43}}
+{"idx": 24, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "31.jpg", "Da": 2.77, "Db": 0.77}}
+{"idx": 25, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "32.jpg", "Da": 5.2, "Db": 0.37}}
+{"idx": 26, "answer": "{'Da': 0.5, 'Db': 0.5}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "33.jpg", "Da": 2.77, "Db": 0.37}}
+{"idx": 27, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "34.jpg", "Da": 5.43, "Db": 0.89}}
+{"idx": 28, "answer": "{'Da': 0.5, 'Db': 0.5}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "35.jpg", "Da": 4.74, "Db": 0.54}}
+{"idx": 29, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "36.jpg", "Da": 0.92, "Db": 5.08}}
+{"idx": 30, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "37.jpg", "Da": 4.97, "Db": 1.06}}
+{"idx": 31, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "38.jpg", "Da": 4.28, "Db": 0.71}}
+{"idx": 32, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "39.jpg", "Da": 1.38, "Db": 4.71}}
+{"idx": 33, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "4.jpg", "Da": 0.69, "Db": 0.94}}
+{"idx": 34, "answer": "{'Da': 0.5, 'Db': 0.5}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "40.jpg", "Da": 0.92, "Db": 4.28}}
+{"idx": 35, "answer": "{'Da': 0.5, 'Db': 0.5}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "5.jpg", "Da": 1.61, "Db": 1.4}}
+{"idx": 36, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "6.jpg", "Da": 2.77, "Db": 1.97}}
+{"idx": 37, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "7.jpg", "Da": 0.69, "Db": 1.14}}
+{"idx": 38, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "8.jpg", "Da": 1.61, "Db": 1.6}}
+{"idx": 39, "answer": "{'Da': 1.0, 'Db': 1.0}", "model": "Innovator-VL-8B-Instruct", "target": {"img_name": "9.jpg", "Da": 2.54, "Db": 2.06}}
+{"idx": 0, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "KimiK2.6", "target": {"img_name": "1.jpg", "Da": 2.54, "Db": 1.26}}
+{"idx": 1, "answer": "```json\n{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}\n```", "model": "KimiK2.6", "target": {"img_name": "10.jpg", "Da": 0.69, "Db": 1.34}}
+{"idx": 2, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "KimiK2.6", "target": {"img_name": "11.jpg", "Da": 1.38, "Db": 1.69}}
+{"idx": 3, "answer": "```json\n{\"Da\": 0.5, \"Db\": 0.5}\n```", "model": "KimiK2.6", "target": {"img_name": "12.jpg", "Da": 2.07, "Db": 2.03}}
+{"idx": 4, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "KimiK2.6", "target": {"img_name": "13.jpg", "Da": 2.77, "Db": 2.37}}
+{"idx": 5, "answer": "Truncated answer. The model output was cut off before producing a valid JSON response with Da/Db values.", "model": "KimiK2.6", "target": {"img_name": "14.jpg", "Da": 0.46, "Db": 1.63}}
+{"idx": 6, "answer": "{\"Da\": 0.25, \"Db\": 0.25}", "model": "KimiK2.6", "target": {"img_name": "15.jpg", "Da": 0.92, "Db": 1.86}}
+{"idx": 7, "answer": "```json\n{\"Da\": 0.0, \"Db\": 0.0}\n```", "model": "KimiK2.6", "target": {"img_name": "16.jpg", "Da": 1.38, "Db": 2.09}}
+{"idx": 8, "answer": "```json\n{\n  \"Da\": 0.5,\n  \"Db\": 0.0\n}\n```", "model": "KimiK2.6", "target": {"img_name": "17.jpg", "Da": 1.84, "Db": 2.32}}
+{"idx": 9, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "KimiK2.6", "target": {"img_name": "18.jpg", "Da": 2.3, "Db": 2.55}}
+{"idx": 10, "answer": "{\"Da\": 0.5, \"Db\": 0}", "model": "KimiK2.6", "target": {"img_name": "19.jpg", "Da": 3.0, "Db": 2.89}}
+{"idx": 11, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "KimiK2.6", "target": {"img_name": "2.jpg", "Da": 0.92, "Db": 0.66}}
+{"idx": 12, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "KimiK2.6", "target": {"img_name": "20.jpg", "Da": 0.23, "Db": 2.11}}
+{"idx": 13, "answer": "Truncated answer. The model output was cut off before producing a valid JSON response with Da/Db values.", "model": "KimiK2.6", "target": {"img_name": "21.jpg", "Da": 0.69, "Db": 2.34}}
+{"idx": 14, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "KimiK2.6", "target": {"img_name": "22.jpg", "Da": 1.61, "Db": 2.8}}
+{"idx": 15, "answer": "```json\n{\"Da\": 0.0, \"Db\": 0.0}\n```", "model": "KimiK2.6", "target": {"img_name": "23.jpg", "Da": 2.07, "Db": 3.03}}
+{"idx": 16, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "KimiK2.6", "target": {"img_name": "24.jpg", "Da": 2.54, "Db": 3.26}}
+{"idx": 17, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "KimiK2.6", "target": {"img_name": "25.jpg", "Da": 3.0, "Db": 3.49}}
+{"idx": 18, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "KimiK2.6", "target": {"img_name": "26.jpg", "Da": 6.12, "Db": 0.23}}
+{"idx": 19, "answer": "Truncated answer. The model output was cut off before producing a valid JSON response with Da/Db values.", "model": "KimiK2.6", "target": {"img_name": "27.jpg", "Da": 1.15, "Db": 4.19}}
+{"idx": 20, "answer": "{\"Da\": 0.333, \"Db\": 0.333}", "model": "KimiK2.6", "target": {"img_name": "28.jpg", "Da": 1.84, "Db": 0.52}}
+{"idx": 21, "answer": "```json\n{\n  \"Da\": 0.5,\n  \"Db\": 0.0\n}\n```", "model": "KimiK2.6", "target": {"img_name": "29.jpg", "Da": 5.89, "Db": 0.32}}
+{"idx": 22, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "KimiK2.6", "target": {"img_name": "3.jpg", "Da": 2.3, "Db": 1.35}}
+{"idx": 23, "answer": "```json\n{\n  \"Da\": 0.333,\n  \"Db\": 0.667\n}\n```", "model": "KimiK2.6", "target": {"img_name": "30.jpg", "Da": 2.07, "Db": 0.43}}
+{"idx": 24, "answer": "{\"Da\": 0.333, \"Db\": 0.333}", "model": "KimiK2.6", "target": {"img_name": "31.jpg", "Da": 2.77, "Db": 0.77}}
+{"idx": 25, "answer": "```json\n{\"Da\": 0.5, \"Db\": 0.0}\n```", "model": "KimiK2.6", "target": {"img_name": "32.jpg", "Da": 5.2, "Db": 0.37}}
+{"idx": 26, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "KimiK2.6", "target": {"img_name": "33.jpg", "Da": 2.77, "Db": 0.37}}
+{"idx": 27, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "KimiK2.6", "target": {"img_name": "34.jpg", "Da": 5.43, "Db": 0.89}}
+{"idx": 28, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "KimiK2.6", "target": {"img_name": "35.jpg", "Da": 4.74, "Db": 0.54}}
+{"idx": 29, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "KimiK2.6", "target": {"img_name": "36.jpg", "Da": 0.92, "Db": 5.08}}
+{"idx": 30, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "KimiK2.6", "target": {"img_name": "37.jpg", "Da": 4.97, "Db": 1.06}}
+{"idx": 31, "answer": "{\"Da\":0.333,\"Db\":0.333}", "model": "KimiK2.6", "target": {"img_name": "38.jpg", "Da": 4.28, "Db": 0.71}}
+{"idx": 32, "answer": "```json\n{\"Da\": 0.5, \"Db\": 0.0}\n```", "model": "KimiK2.6", "target": {"img_name": "39.jpg", "Da": 1.38, "Db": 4.71}}
+{"idx": 33, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "KimiK2.6", "target": {"img_name": "4.jpg", "Da": 0.69, "Db": 0.94}}
+{"idx": 34, "answer": "```json\n{\n  \"Da\": 0.333,\n  \"Db\": 0.333\n}\n```", "model": "KimiK2.6", "target": {"img_name": "40.jpg", "Da": 0.92, "Db": 4.28}}
+{"idx": 35, "answer": "```json\n{\"Da\": 0.0, \"Db\": 0.0}\n```", "model": "KimiK2.6", "target": {"img_name": "5.jpg", "Da": 1.61, "Db": 1.4}}
+{"idx": 36, "answer": "{\"Da\": 0, \"Db\": 0}", "model": "KimiK2.6", "target": {"img_name": "6.jpg", "Da": 2.77, "Db": 1.97}}
+{"idx": 37, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "KimiK2.6", "target": {"img_name": "7.jpg", "Da": 0.69, "Db": 1.14}}
+{"idx": 38, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "KimiK2.6", "target": {"img_name": "8.jpg", "Da": 1.61, "Db": 1.6}}
+{"idx": 39, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "KimiK2.6", "target": {"img_name": "9.jpg", "Da": 2.54, "Db": 2.06}}
+{"idx": 0, "answer": "{\"Da\": 0.33, \"Db\": 0.0}", "model": "KimiK3", "target": {"img_name": "1.jpg", "Da": 2.54, "Db": 1.26}}
+{"idx": 1, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "KimiK3", "target": {"img_name": "10.jpg", "Da": 0.69, "Db": 1.34}}
+{"idx": 2, "answer": "{\"Da\":0.1,\"Db\":0.3}", "model": "KimiK3", "target": {"img_name": "11.jpg", "Da": 1.38, "Db": 1.69}}
+{"idx": 3, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "KimiK3", "target": {"img_name": "12.jpg", "Da": 2.07, "Db": 2.03}}
+{"idx": 4, "answer": "{\"Da\":0.33,\"Db\":0.33}", "model": "KimiK3", "target": {"img_name": "13.jpg", "Da": 2.77, "Db": 2.37}}
+{"idx": 5, "answer": "{\"Da\": 0.3, \"Db\": 0.2}", "model": "KimiK3", "target": {"img_name": "14.jpg", "Da": 0.46, "Db": 1.63}}
+{"idx": 6, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "KimiK3", "target": {"img_name": "15.jpg", "Da": 0.92, "Db": 1.86}}
+{"idx": 7, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "KimiK3", "target": {"img_name": "16.jpg", "Da": 1.38, "Db": 2.09}}
+{"idx": 8, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "KimiK3", "target": {"img_name": "17.jpg", "Da": 1.84, "Db": 2.32}}
+{"idx": 9, "answer": "{\"Da\":0.5,\"Db\":0.0}", "model": "KimiK3", "target": {"img_name": "18.jpg", "Da": 2.3, "Db": 2.55}}
+{"idx": 10, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "KimiK3", "target": {"img_name": "19.jpg", "Da": 3.0, "Db": 2.89}}
+{"idx": 12, "answer": "{\"Da\":0.5,\"Db\":0.0}", "model": "KimiK3", "target": {"img_name": "20.jpg", "Da": 0.23, "Db": 2.11}}
+{"idx": 13, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "KimiK3", "target": {"img_name": "21.jpg", "Da": 0.69, "Db": 2.34}}
+{"idx": 14, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "KimiK3", "target": {"img_name": "22.jpg", "Da": 1.61, "Db": 2.8}}
+{"idx": 15, "answer": "{\"Da\":0.5,\"Db\":0.0}", "model": "KimiK3", "target": {"img_name": "23.jpg", "Da": 2.07, "Db": 3.03}}
+{"idx": 16, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "KimiK3", "target": {"img_name": "24.jpg", "Da": 2.54, "Db": 3.26}}
+{"idx": 17, "answer": "{\"Da\":0.5,\"Db\":0.25}", "model": "KimiK3", "target": {"img_name": "25.jpg", "Da": 3.0, "Db": 3.49}}
+{"idx": 18, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "KimiK3", "target": {"img_name": "26.jpg", "Da": 6.12, "Db": 0.23}}
+{"idx": 19, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "KimiK3", "target": {"img_name": "27.jpg", "Da": 1.15, "Db": 4.19}}
+{"idx": 20, "answer": "{\"Da\":0.5,\"Db\":0.0}", "model": "KimiK3", "target": {"img_name": "28.jpg", "Da": 1.84, "Db": 0.52}}
+{"idx": 21, "answer": "{\"Da\":0.38,\"Db\":0.22}", "model": "KimiK3", "target": {"img_name": "29.jpg", "Da": 5.89, "Db": 0.32}}
+{"idx": 22, "answer": "{\"Da\":0.5,\"Db\":0.0}", "model": "KimiK3", "target": {"img_name": "3.jpg", "Da": 2.3, "Db": 1.35}}
+{"idx": 23, "answer": "{\"Da\": 0.0, \"Db\": 0.5}", "model": "KimiK3", "target": {"img_name": "30.jpg", "Da": 2.07, "Db": 0.43}}
+{"idx": 24, "answer": "{\"Da\":0.33,\"Db\":0.5}", "model": "KimiK3", "target": {"img_name": "31.jpg", "Da": 2.77, "Db": 0.77}}
+{"idx": 25, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "KimiK3", "target": {"img_name": "32.jpg", "Da": 5.2, "Db": 0.37}}
+{"idx": 26, "answer": "{\"Da\":0.0,\"Db\":0.5}", "model": "KimiK3", "target": {"img_name": "33.jpg", "Da": 2.77, "Db": 0.37}}
+{"idx": 27, "answer": "{\"Da\":0.33,\"Db\":0.33}", "model": "KimiK3", "target": {"img_name": "34.jpg", "Da": 5.43, "Db": 0.89}}
+{"idx": 28, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "KimiK3", "target": {"img_name": "35.jpg", "Da": 4.74, "Db": 0.54}}
+{"idx": 29, "answer": "{\"Da\":0.333,\"Db\":0.667}", "model": "KimiK3", "target": {"img_name": "36.jpg", "Da": 0.92, "Db": 5.08}}
+{"idx": 30, "answer": "{\"Da\": 0.33, \"Db\": 0.48}", "model": "KimiK3", "target": {"img_name": "37.jpg", "Da": 4.97, "Db": 1.06}}
+{"idx": 31, "answer": "{\"Da\":0.22,\"Db\":0.08}", "model": "KimiK3", "target": {"img_name": "38.jpg", "Da": 4.28, "Db": 0.71}}
+{"idx": 32, "answer": "{\"Da\":0.35,\"Db\":0.2}", "model": "KimiK3", "target": {"img_name": "39.jpg", "Da": 1.38, "Db": 4.71}}
+{"idx": 33, "answer": "{\"Da\":0.33,\"Db\":0.33}", "model": "KimiK3", "target": {"img_name": "4.jpg", "Da": 0.69, "Db": 0.94}}
+{"idx": 34, "answer": "{\"Da\":0.33,\"Db\":0.67}", "model": "KimiK3", "target": {"img_name": "40.jpg", "Da": 0.92, "Db": 4.28}}
+{"idx": 35, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "KimiK3", "target": {"img_name": "5.jpg", "Da": 1.61, "Db": 1.4}}
+{"idx": 36, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "KimiK3", "target": {"img_name": "6.jpg", "Da": 2.77, "Db": 1.97}}
+{"idx": 37, "answer": "{\"Da\":0.33,\"Db\":0.67}", "model": "KimiK3", "target": {"img_name": "7.jpg", "Da": 0.69, "Db": 1.14}}
+{"idx": 38, "answer": "{\"Da\":0.333,\"Db\":0.333}", "model": "KimiK3", "target": {"img_name": "8.jpg", "Da": 1.61, "Db": 1.6}}
+{"idx": 39, "answer": "{\"Da\":0.5,\"Db\":0.0}", "model": "KimiK3", "target": {"img_name": "9.jpg", "Da": 2.54, "Db": 2.06}}
+{"idx": 0, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.0\n}\n```", "model": "MatChat", "target": {"img_name": "1.jpg", "Da": 2.54, "Db": 1.26}}
+{"idx": 1, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.33\n}\n```", "model": "MatChat", "target": {"img_name": "10.jpg", "Da": 0.69, "Db": 1.34}}
+{"idx": 2, "answer": "```json\n{\"Da\": 0.0, \"Db\": 0.33}\n```", "model": "MatChat", "target": {"img_name": "11.jpg", "Da": 1.38, "Db": 1.69}}
+{"idx": 3, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.33\n}\n```", "model": "MatChat", "target": {"img_name": "12.jpg", "Da": 2.07, "Db": 2.03}}
+{"idx": 4, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.33\n}\n```", "model": "MatChat", "target": {"img_name": "13.jpg", "Da": 2.77, "Db": 2.37}}
+{"idx": 5, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.0\n}\n```", "model": "MatChat", "target": {"img_name": "14.jpg", "Da": 0.46, "Db": 1.63}}
+{"idx": 6, "answer": "```json\n{\"Da\": 0.5, \"Db\": 0.5}\n```", "model": "MatChat", "target": {"img_name": "15.jpg", "Da": 0.92, "Db": 1.86}}
+{"idx": 7, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.33}\n```", "model": "MatChat", "target": {"img_name": "16.jpg", "Da": 1.38, "Db": 2.09}}
+{"idx": 8, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.33}\n```", "model": "MatChat", "target": {"img_name": "17.jpg", "Da": 1.84, "Db": 2.32}}
+{"idx": 9, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.33}\n```", "model": "MatChat", "target": {"img_name": "18.jpg", "Da": 2.3, "Db": 2.55}}
+{"idx": 10, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.33}\n```", "model": "MatChat", "target": {"img_name": "19.jpg", "Da": 3.0, "Db": 2.89}}
+{"idx": 11, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.33}\n```", "model": "MatChat", "target": {"img_name": "2.jpg", "Da": 0.92, "Db": 0.66}}
+{"idx": 12, "answer": "```json\n{\n  \"Da\": 0.5,\n  \"Db\": 0.0\n}\n```", "model": "MatChat", "target": {"img_name": "20.jpg", "Da": 0.23, "Db": 2.11}}
+{"idx": 13, "answer": "```json\n{\"Da\": 0.5, \"Db\": 0.5}\n```", "model": "MatChat", "target": {"img_name": "21.jpg", "Da": 0.69, "Db": 2.34}}
+{"idx": 14, "answer": "```json\n{\n  \"Da\": 0.25,\n  \"Db\": 0.25\n}\n```", "model": "MatChat", "target": {"img_name": "22.jpg", "Da": 1.61, "Db": 2.8}}
+{"idx": 15, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.33\n}\n```", "model": "MatChat", "target": {"img_name": "23.jpg", "Da": 2.07, "Db": 3.03}}
+{"idx": 16, "answer": "```json\n{\"Da\": 0.5, \"Db\": 0.5}\n```", "model": "MatChat", "target": {"img_name": "24.jpg", "Da": 2.54, "Db": 3.26}}
+{"idx": 17, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.0\n}\n```", "model": "MatChat", "target": {"img_name": "25.jpg", "Da": 3.0, "Db": 3.49}}
+{"idx": 18, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.33}\n```", "model": "MatChat", "target": {"img_name": "26.jpg", "Da": 6.12, "Db": 0.23}}
+{"idx": 19, "answer": "```json\n{\"Da\": 0.25, \"Db\": 0.25}\n```", "model": "MatChat", "target": {"img_name": "27.jpg", "Da": 1.15, "Db": 4.19}}
+{"idx": 20, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.33\n}\n```", "model": "MatChat", "target": {"img_name": "28.jpg", "Da": 1.84, "Db": 0.52}}
+{"idx": 21, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.33}\n```", "model": "MatChat", "target": {"img_name": "29.jpg", "Da": 5.89, "Db": 0.32}}
+{"idx": 22, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.33\n}\n```", "model": "MatChat", "target": {"img_name": "3.jpg", "Da": 2.3, "Db": 1.35}}
+{"idx": 23, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "MatChat", "target": {"img_name": "30.jpg", "Da": 2.07, "Db": 0.43}}
+{"idx": 24, "answer": "```json\n{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}\n```", "model": "MatChat", "target": {"img_name": "31.jpg", "Da": 2.77, "Db": 0.77}}
+{"idx": 25, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.33}\n```", "model": "MatChat", "target": {"img_name": "32.jpg", "Da": 5.2, "Db": 0.37}}
+{"idx": 26, "answer": "```json\n{\"Da\": 0.0, \"Db\": 0.33}\n```", "model": "MatChat", "target": {"img_name": "33.jpg", "Da": 2.77, "Db": 0.37}}
+{"idx": 27, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.33}\n```", "model": "MatChat", "target": {"img_name": "34.jpg", "Da": 5.43, "Db": 0.89}}
+{"idx": 28, "answer": "```json\n{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}\n```", "model": "MatChat", "target": {"img_name": "35.jpg", "Da": 4.74, "Db": 0.54}}
+{"idx": 29, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.33\n}\n```", "model": "MatChat", "target": {"img_name": "36.jpg", "Da": 0.92, "Db": 5.08}}
+{"idx": 30, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.33}\n```", "model": "MatChat", "target": {"img_name": "37.jpg", "Da": 4.97, "Db": 1.06}}
+{"idx": 31, "answer": "```json\n{\"Da\": 0.5, \"Db\": 0.5}\n```", "model": "MatChat", "target": {"img_name": "38.jpg", "Da": 4.28, "Db": 0.71}}
+{"idx": 32, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.33}\n```", "model": "MatChat", "target": {"img_name": "39.jpg", "Da": 1.38, "Db": 4.71}}
+{"idx": 33, "answer": "```json\n{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}\n```", "model": "MatChat", "target": {"img_name": "4.jpg", "Da": 0.69, "Db": 0.94}}
+{"idx": 34, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.0}\n```", "model": "MatChat", "target": {"img_name": "40.jpg", "Da": 0.92, "Db": 4.28}}
+{"idx": 35, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.33\n}\n```", "model": "MatChat", "target": {"img_name": "5.jpg", "Da": 1.61, "Db": 1.4}}
+{"idx": 36, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.33}\n```", "model": "MatChat", "target": {"img_name": "6.jpg", "Da": 2.77, "Db": 1.97}}
+{"idx": 37, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.33}\n```", "model": "MatChat", "target": {"img_name": "7.jpg", "Da": 0.69, "Db": 1.14}}
+{"idx": 38, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.33\n}\n```", "model": "MatChat", "target": {"img_name": "8.jpg", "Da": 1.61, "Db": 1.6}}
+{"idx": 39, "answer": "```json\n{\"Da\": 0.33, \"Db\": 0.33}\n```", "model": "MatChat", "target": {"img_name": "9.jpg", "Da": 2.54, "Db": 2.06}}
+{"idx": 0, "answer": "{\"Da\": 0.33, \"Db\": 0.0}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "1.jpg", "Da": 2.54, "Db": 1.26}}
+{"idx": 1, "answer": "{\"Da\": 0.33, \"Db\": 0.0}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "10.jpg", "Da": 0.69, "Db": 1.34}}
+{"idx": 2, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "11.jpg", "Da": 1.38, "Db": 1.69}}
+{"idx": 3, "answer": "{\"Da\": 0.25, \"Db\": 0.25}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "12.jpg", "Da": 2.07, "Db": 2.03}}
+{"idx": 4, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "13.jpg", "Da": 2.77, "Db": 2.37}}
+{"idx": 5, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "14.jpg", "Da": 0.46, "Db": 1.63}}
+{"idx": 6, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "15.jpg", "Da": 0.92, "Db": 1.86}}
+{"idx": 7, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "16.jpg", "Da": 1.38, "Db": 2.09}}
+{"idx": 8, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "17.jpg", "Da": 1.84, "Db": 2.32}}
+{"idx": 9, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "18.jpg", "Da": 2.3, "Db": 2.55}}
+{"idx": 10, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "19.jpg", "Da": 3.0, "Db": 2.89}}
+{"idx": 11, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "2.jpg", "Da": 0.92, "Db": 0.66}}
+{"idx": 12, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "20.jpg", "Da": 0.23, "Db": 2.11}}
+{"idx": 13, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "21.jpg", "Da": 0.69, "Db": 2.34}}
+{"idx": 14, "answer": "{\"Da\": 0.33, \"Db\": 0.0}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "22.jpg", "Da": 1.61, "Db": 2.8}}
+{"idx": 15, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "23.jpg", "Da": 2.07, "Db": 3.03}}
+{"idx": 16, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "24.jpg", "Da": 2.54, "Db": 3.26}}
+{"idx": 17, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "25.jpg", "Da": 3.0, "Db": 3.49}}
+{"idx": 18, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "26.jpg", "Da": 6.12, "Db": 0.23}}
+{"idx": 19, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "27.jpg", "Da": 1.15, "Db": 4.19}}
+{"idx": 20, "answer": "{\"Da\": 0.33, \"Db\": 0.0}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "28.jpg", "Da": 1.84, "Db": 0.52}}
+{"idx": 21, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "29.jpg", "Da": 5.89, "Db": 0.32}}
+{"idx": 22, "answer": "{\"Da\": 0.33, \"Db\": 0.0}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "3.jpg", "Da": 2.3, "Db": 1.35}}
+{"idx": 23, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "30.jpg", "Da": 2.07, "Db": 0.43}}
+{"idx": 24, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "31.jpg", "Da": 2.77, "Db": 0.77}}
+{"idx": 25, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "32.jpg", "Da": 5.2, "Db": 0.37}}
+{"idx": 26, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "33.jpg", "Da": 2.77, "Db": 0.37}}
+{"idx": 27, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "34.jpg", "Da": 5.43, "Db": 0.89}}
+{"idx": 28, "answer": "{\"Da\": 0.333, \"Db\": 0.333}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "35.jpg", "Da": 4.74, "Db": 0.54}}
+{"idx": 29, "answer": "{\"Da\": 0.33, \"Db\": 0.0}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "36.jpg", "Da": 0.92, "Db": 5.08}}
+{"idx": 30, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "37.jpg", "Da": 4.97, "Db": 1.06}}
+{"idx": 31, "answer": "{\"Da\": 0.33, \"Db\": 0.0}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "38.jpg", "Da": 4.28, "Db": 0.71}}
+{"idx": 32, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "39.jpg", "Da": 1.38, "Db": 4.71}}
+{"idx": 33, "answer": "{\"Da\": 0.33, \"Db\": 0.0}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "4.jpg", "Da": 0.69, "Db": 0.94}}
+{"idx": 34, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "40.jpg", "Da": 0.92, "Db": 4.28}}
+{"idx": 35, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "5.jpg", "Da": 1.61, "Db": 1.4}}
+{"idx": 36, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "6.jpg", "Da": 2.77, "Db": 1.97}}
+{"idx": 37, "answer": "{\"Da\": 0.33, \"Db\": 0.0}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "7.jpg", "Da": 0.69, "Db": 1.14}}
+{"idx": 38, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "8.jpg", "Da": 1.61, "Db": 1.6}}
+{"idx": 39, "answer": "{\"Da\": 0.333, \"Db\": 0.0}", "model": "internvl3.5-241b-a28b", "target": {"img_name": "9.jpg", "Da": 2.54, "Db": 2.06}}
+{"idx": 0, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "qwen3-VL-8B", "target": {"img_name": "1.jpg", "Da": 2.54, "Db": 1.26}}
+{"idx": 1, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "qwen3-VL-8B", "target": {"img_name": "10.jpg", "Da": 0.69, "Db": 1.34}}
+{"idx": 2, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "qwen3-VL-8B", "target": {"img_name": "11.jpg", "Da": 1.38, "Db": 1.69}}
+{"idx": 3, "answer": "{\n  \"Da\": 0.0,\n  \"Db\": 0.0\n}", "model": "qwen3-VL-8B", "target": {"img_name": "12.jpg", "Da": 2.07, "Db": 2.03}}
+{"idx": 4, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "qwen3-VL-8B", "target": {"img_name": "13.jpg", "Da": 2.77, "Db": 2.37}}
+{"idx": 5, "answer": "{\n  \"Da\": 0.0,\n  \"Db\": 0.0\n}", "model": "qwen3-VL-8B", "target": {"img_name": "14.jpg", "Da": 0.46, "Db": 1.63}}
+{"idx": 6, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "qwen3-VL-8B", "target": {"img_name": "15.jpg", "Da": 0.92, "Db": 1.86}}
+{"idx": 7, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "qwen3-VL-8B", "target": {"img_name": "16.jpg", "Da": 1.38, "Db": 2.09}}
+{"idx": 8, "answer": "{\n  \"Da\": 0.0,\n  \"Db\": 0.0\n}", "model": "qwen3-VL-8B", "target": {"img_name": "17.jpg", "Da": 1.84, "Db": 2.32}}
+{"idx": 9, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "qwen3-VL-8B", "target": {"img_name": "18.jpg", "Da": 2.3, "Db": 2.55}}
+{"idx": 10, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "qwen3-VL-8B", "target": {"img_name": "19.jpg", "Da": 3.0, "Db": 2.89}}
+{"idx": 11, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "qwen3-VL-8B", "target": {"img_name": "2.jpg", "Da": 0.92, "Db": 0.66}}
+{"idx": 12, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "qwen3-VL-8B", "target": {"img_name": "20.jpg", "Da": 0.23, "Db": 2.11}}
+{"idx": 13, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "qwen3-VL-8B", "target": {"img_name": "21.jpg", "Da": 0.69, "Db": 2.34}}
+{"idx": 14, "answer": "{\n  \"Da\": 0.0,\n  \"Db\": 0.0\n}", "model": "qwen3-VL-8B", "target": {"img_name": "22.jpg", "Da": 1.61, "Db": 2.8}}
+{"idx": 15, "answer": "{\n  \"Da\": 0.0,\n  \"Db\": 0.0\n}", "model": "qwen3-VL-8B", "target": {"img_name": "23.jpg", "Da": 2.07, "Db": 3.03}}
+{"idx": 16, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "qwen3-VL-8B", "target": {"img_name": "24.jpg", "Da": 2.54, "Db": 3.26}}
+{"idx": 17, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "qwen3-VL-8B", "target": {"img_name": "25.jpg", "Da": 3.0, "Db": 3.49}}
+{"idx": 18, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "qwen3-VL-8B", "target": {"img_name": "26.jpg", "Da": 6.12, "Db": 0.23}}
+{"idx": 19, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "qwen3-VL-8B", "target": {"img_name": "27.jpg", "Da": 1.15, "Db": 4.19}}
+{"idx": 20, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "qwen3-VL-8B", "target": {"img_name": "28.jpg", "Da": 1.84, "Db": 0.52}}
+{"idx": 21, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "qwen3-VL-8B", "target": {"img_name": "29.jpg", "Da": 5.89, "Db": 0.32}}
+{"idx": 22, "answer": "{\n  \"Da\": 0.0,\n  \"Db\": 0.0\n}", "model": "qwen3-VL-8B", "target": {"img_name": "3.jpg", "Da": 2.3, "Db": 1.35}}
+{"idx": 23, "answer": "{\n  \"Da\": 0.0,\n  \"Db\": 0.0\n}", "model": "qwen3-VL-8B", "target": {"img_name": "30.jpg", "Da": 2.07, "Db": 0.43}}
+{"idx": 24, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "qwen3-VL-8B", "target": {"img_name": "31.jpg", "Da": 2.77, "Db": 0.77}}
+{"idx": 25, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "qwen3-VL-8B", "target": {"img_name": "32.jpg", "Da": 5.2, "Db": 0.37}}
+{"idx": 26, "answer": "{\n  \"Da\": 0.0,\n  \"Db\": 0.0\n}", "model": "qwen3-VL-8B", "target": {"img_name": "33.jpg", "Da": 2.77, "Db": 0.37}}
+{"idx": 27, "answer": "{\"Da\": 0.0, \"Db\": 0.0}", "model": "qwen3-VL-8B", "target": {"img_name": "34.jpg", "Da": 5.43, "Db": 0.89}}
+{"idx": 28, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "qwen3-VL-8B", "target": {"img_name": "35.jpg", "Da": 4.74, "Db": 0.54}}
+{"idx": 29, "answer": "{\n  \"Da\": 0.0,\n  \"Db\": 0.0\n}", "model": "qwen3-VL-8B", "target": {"img_name": "36.jpg", "Da": 0.92, "Db": 5.08}}
+{"idx": 30, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "qwen3-VL-8B", "target": {"img_name": "37.jpg", "Da": 4.97, "Db": 1.06}}
+{"idx": 31, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "qwen3-VL-8B", "target": {"img_name": "38.jpg", "Da": 4.28, "Db": 0.71}}
+{"idx": 32, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "qwen3-VL-8B", "target": {"img_name": "39.jpg", "Da": 1.38, "Db": 4.71}}
+{"idx": 33, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "qwen3-VL-8B", "target": {"img_name": "4.jpg", "Da": 0.69, "Db": 0.94}}
+{"idx": 34, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "qwen3-VL-8B", "target": {"img_name": "40.jpg", "Da": 0.92, "Db": 4.28}}
+{"idx": 35, "answer": "{\n  \"Da\": 0.0,\n  \"Db\": 0.0\n}", "model": "qwen3-VL-8B", "target": {"img_name": "5.jpg", "Da": 1.61, "Db": 1.4}}
+{"idx": 36, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "qwen3-VL-8B", "target": {"img_name": "6.jpg", "Da": 2.77, "Db": 1.97}}
+{"idx": 37, "answer": "{\n  \"Da\": 0.0,\n  \"Db\": 0.0\n}", "model": "qwen3-VL-8B", "target": {"img_name": "7.jpg", "Da": 0.69, "Db": 1.14}}
+{"idx": 38, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "qwen3-VL-8B", "target": {"img_name": "8.jpg", "Da": 1.61, "Db": 1.6}}
+{"idx": 39, "answer": "{\n  \"Da\": 0.0,\n  \"Db\": 0.0\n}", "model": "qwen3-VL-8B", "target": {"img_name": "9.jpg", "Da": 2.54, "Db": 2.06}}
+{"idx": 0, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "1.jpg", "Da": 2.54, "Db": 1.26}}
+{"idx": 1, "answer": "{\"Da\": 0.5, \"Db\": 0}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "10.jpg", "Da": 0.69, "Db": 1.34}}
+{"idx": 2, "answer": "{\"Da\": 0, \"Db\": 0.5}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "11.jpg", "Da": 1.38, "Db": 1.69}}
+{"idx": 3, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "12.jpg", "Da": 2.07, "Db": 2.03}}
+{"idx": 4, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "13.jpg", "Da": 2.77, "Db": 2.37}}
+{"idx": 5, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "14.jpg", "Da": 0.46, "Db": 1.63}}
+{"idx": 6, "answer": "{\"Da\": 0.5, \"Db\": 0}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "15.jpg", "Da": 0.92, "Db": 1.86}}
+{"idx": 7, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "16.jpg", "Da": 1.38, "Db": 2.09}}
+{"idx": 8, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "17.jpg", "Da": 1.84, "Db": 2.32}}
+{"idx": 9, "answer": "{\"Da\": 0, \"Db\": 0.5}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "18.jpg", "Da": 2.3, "Db": 2.55}}
+{"idx": 10, "answer": "{\"Da\": 0.5, \"Db\": 0}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "19.jpg", "Da": 3.0, "Db": 2.89}}
+{"idx": 11, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "2.jpg", "Da": 0.92, "Db": 0.66}}
+{"idx": 12, "answer": "{\"Da\": 0.33, \"Db\": 0.25}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "20.jpg", "Da": 0.23, "Db": 2.11}}
+{"idx": 13, "answer": "{\"Da\": 0.5, \"Db\": 0}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "21.jpg", "Da": 0.69, "Db": 2.34}}
+{"idx": 14, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "22.jpg", "Da": 1.61, "Db": 2.8}}
+{"idx": 15, "answer": "{\"Da\": 0.5, \"Db\": 0}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "23.jpg", "Da": 2.07, "Db": 3.03}}
+{"idx": 16, "answer": "{\"Da\": 0.5, \"Db\": 0}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "24.jpg", "Da": 2.54, "Db": 3.26}}
+{"idx": 17, "answer": "{\"Da\": 0.5, \"Db\": 0}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "25.jpg", "Da": 3.0, "Db": 3.49}}
+{"idx": 18, "answer": "{\"Da\": 0.45, \"Db\": 0.38}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "26.jpg", "Da": 6.12, "Db": 0.23}}
+{"idx": 19, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "27.jpg", "Da": 1.15, "Db": 4.19}}
+{"idx": 20, "answer": "{\"Da\": 0, \"Db\": 0.5}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "28.jpg", "Da": 1.84, "Db": 0.52}}
+{"idx": 21, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "29.jpg", "Da": 5.89, "Db": 0.32}}
+{"idx": 22, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "3.jpg", "Da": 2.3, "Db": 1.35}}
+{"idx": 23, "answer": "{\"Da\": 0.5, \"Db\": 0}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "30.jpg", "Da": 2.07, "Db": 0.43}}
+{"idx": 24, "answer": "{\"Da\": 0.0, \"Db\": 0.5}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "31.jpg", "Da": 2.77, "Db": 0.77}}
+{"idx": 25, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "32.jpg", "Da": 5.2, "Db": 0.37}}
+{"idx": 26, "answer": "{\"Da\": 0.5, \"Db\": 0}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "33.jpg", "Da": 2.77, "Db": 0.37}}
+{"idx": 27, "answer": "{\"Da\": 0.5, \"Db\": 0}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "34.jpg", "Da": 5.43, "Db": 0.89}}
+{"idx": 28, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "35.jpg", "Da": 4.74, "Db": 0.54}}
+{"idx": 29, "answer": "{\"Da\": 0, \"Db\": 0.5}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "36.jpg", "Da": 0.92, "Db": 5.08}}
+{"idx": 30, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "37.jpg", "Da": 4.97, "Db": 1.06}}
+{"idx": 31, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "38.jpg", "Da": 4.28, "Db": 0.71}}
+{"idx": 32, "answer": "{\"Da\": 0.5, \"Db\": 0}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "39.jpg", "Da": 1.38, "Db": 4.71}}
+{"idx": 33, "answer": "{\"Da\": 0.2, \"Db\": 0.2}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "4.jpg", "Da": 0.69, "Db": 0.94}}
+{"idx": 34, "answer": "{\"Da\": 0.5, \"Db\": 0}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "40.jpg", "Da": 0.92, "Db": 4.28}}
+{"idx": 35, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "5.jpg", "Da": 1.61, "Db": 1.4}}
+{"idx": 36, "answer": "{\"Da\": 0.5, \"Db\": 0}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "6.jpg", "Da": 2.77, "Db": 1.97}}
+{"idx": 37, "answer": "{\"Da\": 0.33, \"Db\": 0.5}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "7.jpg", "Da": 0.69, "Db": 1.14}}
+{"idx": 38, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "8.jpg", "Da": 1.61, "Db": 1.6}}
+{"idx": 39, "answer": "{\"Da\": 0.5, \"Db\": 0}", "model": "DoubaoSeed2.1Pro", "target": {"img_name": "9.jpg", "Da": 2.54, "Db": 2.06}}
+{"idx": 0, "answer": "{\"Da\": 0.0, \"Db\": 0.5}", "model": "GLM5.3Flash", "target": {"img_name": "1.jpg", "Da": 2.54, "Db": 1.26}}
+{"idx": 1, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "GLM5.3Flash", "target": {"img_name": "10.jpg", "Da": 0.69, "Db": 1.34}}
+{"idx": 2, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "GLM5.3Flash", "target": {"img_name": "11.jpg", "Da": 1.38, "Db": 1.69}}
+{"idx": 3, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "GLM5.3Flash", "target": {"img_name": "12.jpg", "Da": 2.07, "Db": 2.03}}
+{"idx": 4, "answer": "Truncated answer. The model output was cut off before producing a valid JSON response with Da/Db values.", "model": "GLM5.3Flash", "target": {"img_name": "13.jpg", "Da": 2.77, "Db": 2.37}}
+{"idx": 5, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "GLM5.3Flash", "target": {"img_name": "14.jpg", "Da": 0.46, "Db": 1.63}}
+{"idx": 6, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "GLM5.3Flash", "target": {"img_name": "15.jpg", "Da": 0.92, "Db": 1.86}}
+{"idx": 7, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "GLM5.3Flash", "target": {"img_name": "16.jpg", "Da": 1.38, "Db": 2.09}}
+{"idx": 8, "answer": "{\"Da\": 0.33, \"Db\": 0.67}", "model": "GLM5.3Flash", "target": {"img_name": "17.jpg", "Da": 1.84, "Db": 2.32}}
+{"idx": 9, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "GLM5.3Flash", "target": {"img_name": "18.jpg", "Da": 2.3, "Db": 2.55}}
+{"idx": 10, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "GLM5.3Flash", "target": {"img_name": "19.jpg", "Da": 3.0, "Db": 2.89}}
+{"idx": 11, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "GLM5.3Flash", "target": {"img_name": "2.jpg", "Da": 0.92, "Db": 0.66}}
+{"idx": 12, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "GLM5.3Flash", "target": {"img_name": "20.jpg", "Da": 0.23, "Db": 2.11}}
+{"idx": 13, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "GLM5.3Flash", "target": {"img_name": "21.jpg", "Da": 0.69, "Db": 2.34}}
+{"idx": 14, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "GLM5.3Flash", "target": {"img_name": "22.jpg", "Da": 1.61, "Db": 2.8}}
+{"idx": 15, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "GLM5.3Flash", "target": {"img_name": "23.jpg", "Da": 2.07, "Db": 3.03}}
+{"idx": 16, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "GLM5.3Flash", "target": {"img_name": "24.jpg", "Da": 2.54, "Db": 3.26}}
+{"idx": 17, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "GLM5.3Flash", "target": {"img_name": "25.jpg", "Da": 3.0, "Db": 3.49}}
+{"idx": 18, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "GLM5.3Flash", "target": {"img_name": "26.jpg", "Da": 6.12, "Db": 0.23}}
+{"idx": 19, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "GLM5.3Flash", "target": {"img_name": "27.jpg", "Da": 1.15, "Db": 4.19}}
+{"idx": 20, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "GLM5.3Flash", "target": {"img_name": "28.jpg", "Da": 1.84, "Db": 0.52}}
+{"idx": 21, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "GLM5.3Flash", "target": {"img_name": "29.jpg", "Da": 5.89, "Db": 0.32}}
+{"idx": 22, "answer": "{\"Da\": 0.0, \"Db\": 0.5}", "model": "GLM5.3Flash", "target": {"img_name": "3.jpg", "Da": 2.3, "Db": 1.35}}
+{"idx": 23, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "GLM5.3Flash", "target": {"img_name": "30.jpg", "Da": 2.07, "Db": 0.43}}
+{"idx": 24, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "GLM5.3Flash", "target": {"img_name": "31.jpg", "Da": 2.77, "Db": 0.77}}
+{"idx": 25, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "GLM5.3Flash", "target": {"img_name": "32.jpg", "Da": 5.2, "Db": 0.37}}
+{"idx": 26, "answer": "{\"Da\": 0.25, \"Db\": 0.25}", "model": "GLM5.3Flash", "target": {"img_name": "33.jpg", "Da": 2.77, "Db": 0.37}}
+{"idx": 27, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "GLM5.3Flash", "target": {"img_name": "34.jpg", "Da": 5.43, "Db": 0.89}}
+{"idx": 28, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "GLM5.3Flash", "target": {"img_name": "35.jpg", "Da": 4.74, "Db": 0.54}}
+{"idx": 29, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "GLM5.3Flash", "target": {"img_name": "36.jpg", "Da": 0.92, "Db": 5.08}}
+{"idx": 30, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "GLM5.3Flash", "target": {"img_name": "37.jpg", "Da": 4.97, "Db": 1.06}}
+{"idx": 31, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "GLM5.3Flash", "target": {"img_name": "38.jpg", "Da": 4.28, "Db": 0.71}}
+{"idx": 32, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "GLM5.3Flash", "target": {"img_name": "39.jpg", "Da": 1.38, "Db": 4.71}}
+{"idx": 33, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "GLM5.3Flash", "target": {"img_name": "4.jpg", "Da": 0.69, "Db": 0.94}}
+{"idx": 34, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "GLM5.3Flash", "target": {"img_name": "40.jpg", "Da": 0.92, "Db": 4.28}}
+{"idx": 35, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "GLM5.3Flash", "target": {"img_name": "5.jpg", "Da": 1.61, "Db": 1.4}}
+{"idx": 36, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "GLM5.3Flash", "target": {"img_name": "6.jpg", "Da": 2.77, "Db": 1.97}}
+{"idx": 37, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "GLM5.3Flash", "target": {"img_name": "7.jpg", "Da": 0.69, "Db": 1.14}}
+{"idx": 38, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "GLM5.3Flash", "target": {"img_name": "8.jpg", "Da": 1.61, "Db": 1.6}}
+{"idx": 39, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "GLM5.3Flash", "target": {"img_name": "9.jpg", "Da": 2.54, "Db": 2.06}}
+{"idx": 0, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "1.jpg", "Da": 2.54, "Db": 1.26}}
+{"idx": 1, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "10.jpg", "Da": 0.69, "Db": 1.34}}
+{"idx": 2, "answer": "{\"Da\":0.25,\"Db\":0.25}", "model": "GPT6Astra", "target": {"img_name": "11.jpg", "Da": 1.38, "Db": 1.69}}
+{"idx": 3, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "12.jpg", "Da": 2.07, "Db": 2.03}}
+{"idx": 4, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "13.jpg", "Da": 2.77, "Db": 2.37}}
+{"idx": 5, "answer": "{\"Da\":0,\"Db\":0.33}", "model": "GPT6Astra", "target": {"img_name": "14.jpg", "Da": 0.46, "Db": 1.63}}
+{"idx": 6, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "15.jpg", "Da": 0.92, "Db": 1.86}}
+{"idx": 7, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "16.jpg", "Da": 1.38, "Db": 2.09}}
+{"idx": 8, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "17.jpg", "Da": 1.84, "Db": 2.32}}
+{"idx": 9, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "18.jpg", "Da": 2.3, "Db": 2.55}}
+{"idx": 10, "answer": "{\"Da\":0,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "19.jpg", "Da": 3.0, "Db": 2.89}}
+{"idx": 11, "answer": "{\"Da\":0.25,\"Db\":0.25}", "model": "GPT6Astra", "target": {"img_name": "2.jpg", "Da": 0.92, "Db": 0.66}}
+{"idx": 12, "answer": "{\"Da\":0.25,\"Db\":0.25}", "model": "GPT6Astra", "target": {"img_name": "20.jpg", "Da": 0.23, "Db": 2.11}}
+{"idx": 13, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "21.jpg", "Da": 0.69, "Db": 2.34}}
+{"idx": 14, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "22.jpg", "Da": 1.61, "Db": 2.8}}
+{"idx": 15, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "23.jpg", "Da": 2.07, "Db": 3.03}}
+{"idx": 16, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "24.jpg", "Da": 2.54, "Db": 3.26}}
+{"idx": 17, "answer": "{\"Da\":0.1,\"Db\":0.2}", "model": "GPT6Astra", "target": {"img_name": "25.jpg", "Da": 3.0, "Db": 3.49}}
+{"idx": 18, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "26.jpg", "Da": 6.12, "Db": 0.23}}
+{"idx": 19, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "27.jpg", "Da": 1.15, "Db": 4.19}}
+{"idx": 20, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "28.jpg", "Da": 1.84, "Db": 0.52}}
+{"idx": 21, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "29.jpg", "Da": 5.89, "Db": 0.32}}
+{"idx": 22, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "3.jpg", "Da": 2.3, "Db": 1.35}}
+{"idx": 23, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "30.jpg", "Da": 2.07, "Db": 0.43}}
+{"idx": 24, "answer": "{\"Da\":0.25,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "31.jpg", "Da": 2.77, "Db": 0.77}}
+{"idx": 25, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "32.jpg", "Da": 5.2, "Db": 0.37}}
+{"idx": 26, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "33.jpg", "Da": 2.77, "Db": 0.37}}
+{"idx": 27, "answer": "{\"Da\":0.25,\"Db\":0.25}", "model": "GPT6Astra", "target": {"img_name": "34.jpg", "Da": 5.43, "Db": 0.89}}
+{"idx": 28, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "35.jpg", "Da": 4.74, "Db": 0.54}}
+{"idx": 29, "answer": "{\"Da\":0,\"Db\":0.3}", "model": "GPT6Astra", "target": {"img_name": "36.jpg", "Da": 0.92, "Db": 5.08}}
+{"idx": 30, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "37.jpg", "Da": 4.97, "Db": 1.06}}
+{"idx": 31, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "38.jpg", "Da": 4.28, "Db": 0.71}}
+{"idx": 32, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "39.jpg", "Da": 1.38, "Db": 4.71}}
+{"idx": 33, "answer": "{\"Da\":0.0,\"Db\":0.25}", "model": "GPT6Astra", "target": {"img_name": "4.jpg", "Da": 0.69, "Db": 0.94}}
+{"idx": 34, "answer": "{\"Da\":0,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "40.jpg", "Da": 0.92, "Db": 4.28}}
+{"idx": 35, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "5.jpg", "Da": 1.61, "Db": 1.4}}
+{"idx": 36, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "6.jpg", "Da": 2.77, "Db": 1.97}}
+{"idx": 37, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "7.jpg", "Da": 0.69, "Db": 1.14}}
+{"idx": 38, "answer": "{\"Da\":0.5,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "8.jpg", "Da": 1.61, "Db": 1.6}}
+{"idx": 39, "answer": "{\"Da\":0.33,\"Db\":0.5}", "model": "GPT6Astra", "target": {"img_name": "9.jpg", "Da": 2.54, "Db": 2.06}}
+{"idx": 0, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.0\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "1.jpg", "Da": 2.54, "Db": 1.26}}
+{"idx": 1, "answer": "```json\n{\n  \"Da\": 0.2,\n  \"Db\": 0.0\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "10.jpg", "Da": 0.69, "Db": 1.34}}
+{"idx": 2, "answer": "{\"Da\": 0.32, \"Db\": 0.15}", "model": "Gemini3.8Flash", "target": {"img_name": "11.jpg", "Da": 1.38, "Db": 1.69}}
+{"idx": 3, "answer": "```json\n{\"Da\": 0.0, \"Db\": 0.2}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "12.jpg", "Da": 2.07, "Db": 2.03}}
+{"idx": 4, "answer": "```json\n{\n  \"Da\": 0.17,\n  \"Db\": 0.30\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "13.jpg", "Da": 2.77, "Db": 2.37}}
+{"idx": 5, "answer": "```json\n{\n  \"Da\": 0.0,\n  \"Db\": 0.0\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "14.jpg", "Da": 0.46, "Db": 1.63}}
+{"idx": 6, "answer": "{\n  \"Da\": 0.0,\n  \"Db\": 0.0\n}", "model": "Gemini3.8Flash", "target": {"img_name": "15.jpg", "Da": 0.92, "Db": 1.86}}
+{"idx": 7, "answer": "```json\n{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "16.jpg", "Da": 1.38, "Db": 2.09}}
+{"idx": 8, "answer": "```json\n{\n  \"Da\": 0.0,\n  \"Db\": 0.5\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "17.jpg", "Da": 1.84, "Db": 2.32}}
+{"idx": 9, "answer": "```json\n{\n  \"Da\": 0.0,\n  \"Db\": 0.5\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "18.jpg", "Da": 2.3, "Db": 2.55}}
+{"idx": 10, "answer": "{\"Da\": 0.0, \"Db\": 0.2}", "model": "Gemini3.8Flash", "target": {"img_name": "19.jpg", "Da": 3.0, "Db": 2.89}}
+{"idx": 11, "answer": "```json\n{\n  \"Da\": 0.25,\n  \"Db\": 0.25\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "2.jpg", "Da": 0.92, "Db": 0.66}}
+{"idx": 12, "answer": "```json\n{\n  \"Da\": 0.25,\n  \"Db\": 0.0\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "20.jpg", "Da": 0.23, "Db": 2.11}}
+{"idx": 13, "answer": "```json\n{\n  \"Da\": 0.0,\n  \"Db\": 0.0\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "21.jpg", "Da": 0.69, "Db": 2.34}}
+{"idx": 14, "answer": "```json\n{\n  \"Da\": 0.0,\n  \"Db\": 0.2\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "22.jpg", "Da": 1.61, "Db": 2.8}}
+{"idx": 15, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.33\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "23.jpg", "Da": 2.07, "Db": 3.03}}
+{"idx": 16, "answer": "```json\n{\n  \"Da\": 0.0,\n  \"Db\": 0.0\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "24.jpg", "Da": 2.54, "Db": 3.26}}
+{"idx": 17, "answer": "```json\n{\n  \"Da\": 0.2,\n  \"Db\": 0.0\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "25.jpg", "Da": 3.0, "Db": 3.49}}
+{"idx": 18, "answer": "```json\n{\n  \"Da\": 0.07,\n  \"Db\": 0.0\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "26.jpg", "Da": 6.12, "Db": 0.23}}
+{"idx": 19, "answer": "```json\n{\n  \"Da\": 0.4,\n  \"Db\": 0.0\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "27.jpg", "Da": 1.15, "Db": 4.19}}
+{"idx": 20, "answer": "```json\n{\n  \"Da\": 0.2,\n  \"Db\": 0.0\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "28.jpg", "Da": 1.84, "Db": 0.52}}
+{"idx": 21, "answer": "```json\n{\"Da\": 0.2, \"Db\": 0.1}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "29.jpg", "Da": 5.89, "Db": 0.32}}
+{"idx": 22, "answer": "```json\n{\n  \"Da\": 0.1,\n  \"Db\": 0.0\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "3.jpg", "Da": 2.3, "Db": 1.35}}
+{"idx": 23, "answer": "```json\n{\n  \"Da\": 0.0,\n  \"Db\": 0.5\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "30.jpg", "Da": 2.07, "Db": 0.43}}
+{"idx": 24, "answer": "{\n  \"Da\": 0.25,\n  \"Db\": 0.0\n}", "model": "Gemini3.8Flash", "target": {"img_name": "31.jpg", "Da": 2.77, "Db": 0.77}}
+{"idx": 25, "answer": "{\n  \"Da\": 0.2,\n  \"Db\": 0.36\n}", "model": "Gemini3.8Flash", "target": {"img_name": "32.jpg", "Da": 5.2, "Db": 0.37}}
+{"idx": 26, "answer": "```json\n{\n  \"Da\": 0.2,\n  \"Db\": 0.0\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "33.jpg", "Da": 2.77, "Db": 0.37}}
+{"idx": 27, "answer": "```json\n{\n  \"Da\": 0.2,\n  \"Db\": 0.1\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "34.jpg", "Da": 5.43, "Db": 0.89}}
+{"idx": 28, "answer": "```json\n{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "35.jpg", "Da": 4.74, "Db": 0.54}}
+{"idx": 29, "answer": "```json\n{\n  \"Da\": 0.3,\n  \"Db\": 0.2\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "36.jpg", "Da": 0.92, "Db": 5.08}}
+{"idx": 30, "answer": "```json\n{\n  \"Da\": 0.0,\n  \"Db\": 0.2\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "37.jpg", "Da": 4.97, "Db": 1.06}}
+{"idx": 31, "answer": "```json\n{\n  \"Da\": 0.17,\n  \"Db\": 0.33\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "38.jpg", "Da": 4.28, "Db": 0.71}}
+{"idx": 32, "answer": "```json\n{\n  \"Da\": 0.0,\n  \"Db\": 0.0\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "39.jpg", "Da": 1.38, "Db": 4.71}}
+{"idx": 33, "answer": "```json\n{\n  \"Da\": 0.0,\n  \"Db\": 0.33\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "4.jpg", "Da": 0.69, "Db": 0.94}}
+{"idx": 34, "answer": "```json\n{\n  \"Da\": 0.0,\n  \"Db\": 0.2\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "40.jpg", "Da": 0.92, "Db": 4.28}}
+{"idx": 35, "answer": "```json\n{\n  \"Da\": 0.0,\n  \"Db\": 0.25\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "5.jpg", "Da": 1.61, "Db": 1.4}}
+{"idx": 36, "answer": "```json\n{\n  \"Da\": 0.0,\n  \"Db\": 0.0\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "6.jpg", "Da": 2.77, "Db": 1.97}}
+{"idx": 37, "answer": "```json\n{\n  \"Da\": 0.33,\n  \"Db\": 0.17\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "7.jpg", "Da": 0.69, "Db": 1.14}}
+{"idx": 38, "answer": "```json\n{\n  \"Da\": 0.0,\n  \"Db\": 0.5\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "8.jpg", "Da": 1.61, "Db": 1.6}}
+{"idx": 39, "answer": "```json\n{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}\n```", "model": "Gemini3.8Flash", "target": {"img_name": "9.jpg", "Da": 2.54, "Db": 2.06}}
+{"idx": 0, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "1.jpg", "Da": 2.54, "Db": 1.26}}
+{"idx": 1, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "Qwen3.8Max", "target": {"img_name": "10.jpg", "Da": 0.69, "Db": 1.34}}
+{"idx": 2, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "11.jpg", "Da": 1.38, "Db": 1.69}}
+{"idx": 3, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "12.jpg", "Da": 2.07, "Db": 2.03}}
+{"idx": 4, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "13.jpg", "Da": 2.77, "Db": 2.37}}
+{"idx": 5, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "14.jpg", "Da": 0.46, "Db": 1.63}}
+{"idx": 6, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "15.jpg", "Da": 0.92, "Db": 1.86}}
+{"idx": 7, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "Qwen3.8Max", "target": {"img_name": "16.jpg", "Da": 1.38, "Db": 2.09}}
+{"idx": 8, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "17.jpg", "Da": 1.84, "Db": 2.32}}
+{"idx": 9, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "18.jpg", "Da": 2.3, "Db": 2.55}}
+{"idx": 10, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "Qwen3.8Max", "target": {"img_name": "19.jpg", "Da": 3.0, "Db": 2.89}}
+{"idx": 11, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "Qwen3.8Max", "target": {"img_name": "2.jpg", "Da": 0.92, "Db": 0.66}}
+{"idx": 12, "answer": "{\"Da\": 0.5, \"Db\": 0}", "model": "Qwen3.8Max", "target": {"img_name": "20.jpg", "Da": 0.23, "Db": 2.11}}
+{"idx": 13, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "21.jpg", "Da": 0.69, "Db": 2.34}}
+{"idx": 14, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "22.jpg", "Da": 1.61, "Db": 2.8}}
+{"idx": 15, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "Qwen3.8Max", "target": {"img_name": "23.jpg", "Da": 2.07, "Db": 3.03}}
+{"idx": 16, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "24.jpg", "Da": 2.54, "Db": 3.26}}
+{"idx": 17, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "Qwen3.8Max", "target": {"img_name": "25.jpg", "Da": 3.0, "Db": 3.49}}
+{"idx": 18, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "26.jpg", "Da": 6.12, "Db": 0.23}}
+{"idx": 19, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "Qwen3.8Max", "target": {"img_name": "27.jpg", "Da": 1.15, "Db": 4.19}}
+{"idx": 20, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "28.jpg", "Da": 1.84, "Db": 0.52}}
+{"idx": 21, "answer": "{\"Da\": 0.25, \"Db\": 0.25}", "model": "Qwen3.8Max", "target": {"img_name": "29.jpg", "Da": 5.89, "Db": 0.32}}
+{"idx": 22, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "3.jpg", "Da": 2.3, "Db": 1.35}}
+{"idx": 23, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "Qwen3.8Max", "target": {"img_name": "30.jpg", "Da": 2.07, "Db": 0.43}}
+{"idx": 24, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "31.jpg", "Da": 2.77, "Db": 0.77}}
+{"idx": 25, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "32.jpg", "Da": 5.2, "Db": 0.37}}
+{"idx": 26, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Qwen3.8Max", "target": {"img_name": "33.jpg", "Da": 2.77, "Db": 0.37}}
+{"idx": 27, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "34.jpg", "Da": 5.43, "Db": 0.89}}
+{"idx": 28, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "35.jpg", "Da": 4.74, "Db": 0.54}}
+{"idx": 29, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "36.jpg", "Da": 0.92, "Db": 5.08}}
+{"idx": 30, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "37.jpg", "Da": 4.97, "Db": 1.06}}
+{"idx": 31, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "38.jpg", "Da": 4.28, "Db": 0.71}}
+{"idx": 32, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "39.jpg", "Da": 1.38, "Db": 4.71}}
+{"idx": 33, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "4.jpg", "Da": 0.69, "Db": 0.94}}
+{"idx": 34, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "40.jpg", "Da": 0.92, "Db": 4.28}}
+{"idx": 35, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "5.jpg", "Da": 1.61, "Db": 1.4}}
+{"idx": 36, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "6.jpg", "Da": 2.77, "Db": 1.97}}
+{"idx": 37, "answer": "{\"Da\": 0.5, \"Db\": 0}", "model": "Qwen3.8Max", "target": {"img_name": "7.jpg", "Da": 0.69, "Db": 1.14}}
+{"idx": 38, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Max", "target": {"img_name": "8.jpg", "Da": 1.61, "Db": 1.6}}
+{"idx": 39, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Qwen3.8Max", "target": {"img_name": "9.jpg", "Da": 2.54, "Db": 2.06}}
+{"idx": 0, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "Qwen3.8-27B", "target": {"img_name": "1.jpg", "Da": 2.54, "Db": 1.26}}
+{"idx": 1, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Qwen3.8-27B", "target": {"img_name": "10.jpg", "Da": 0.69, "Db": 1.34}}
+{"idx": 2, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Qwen3.8-27B", "target": {"img_name": "11.jpg", "Da": 1.38, "Db": 1.69}}
+{"idx": 3, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Qwen3.8-27B", "target": {"img_name": "12.jpg", "Da": 2.07, "Db": 2.03}}
+{"idx": 4, "answer": "{\"Da\": 0.0, \"Db\": 0.0}", "model": "Qwen3.8-27B", "target": {"img_name": "13.jpg", "Da": 2.77, "Db": 2.37}}
+{"idx": 5, "answer": "{\"Da\": 0.0, \"Db\": 0.0}", "model": "Qwen3.8-27B", "target": {"img_name": "14.jpg", "Da": 0.46, "Db": 1.63}}
+{"idx": 6, "answer": "{\"Da\": 0.0, \"Db\": 0.0}", "model": "Qwen3.8-27B", "target": {"img_name": "15.jpg", "Da": 0.92, "Db": 1.86}}
+{"idx": 7, "answer": "{\"Da\": 0.0, \"Db\": 0.0}", "model": "Qwen3.8-27B", "target": {"img_name": "16.jpg", "Da": 1.38, "Db": 2.09}}
+{"idx": 8, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8-27B", "target": {"img_name": "17.jpg", "Da": 1.84, "Db": 2.32}}
+{"idx": 9, "answer": "{\"Da\": 0.0, \"Db\": 0.0}", "model": "Qwen3.8-27B", "target": {"img_name": "18.jpg", "Da": 2.3, "Db": 2.55}}
+{"idx": 10, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8-27B", "target": {"img_name": "19.jpg", "Da": 3.0, "Db": 2.89}}
+{"idx": 11, "answer": "{\"Da\": 0.2, \"Db\": 0.2}", "model": "Qwen3.8-27B", "target": {"img_name": "2.jpg", "Da": 0.92, "Db": 0.66}}
+{"idx": 12, "answer": "{\"Da\": 0.0, \"Db\": 0.5}", "model": "Qwen3.8-27B", "target": {"img_name": "20.jpg", "Da": 0.23, "Db": 2.11}}
+{"idx": 13, "answer": "{\"Da\": 0.0, \"Db\": 0.0}", "model": "Qwen3.8-27B", "target": {"img_name": "21.jpg", "Da": 0.69, "Db": 2.34}}
+{"idx": 14, "answer": "{\"Da\": 0.0, \"Db\": 0.0}", "model": "Qwen3.8-27B", "target": {"img_name": "22.jpg", "Da": 1.61, "Db": 2.8}}
+{"idx": 15, "answer": "{\"Da\": 0.0, \"Db\": 0.5}", "model": "Qwen3.8-27B", "target": {"img_name": "23.jpg", "Da": 2.07, "Db": 3.03}}
+{"idx": 16, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8-27B", "target": {"img_name": "24.jpg", "Da": 2.54, "Db": 3.26}}
+{"idx": 17, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Qwen3.8-27B", "target": {"img_name": "25.jpg", "Da": 3.0, "Db": 3.49}}
+{"idx": 18, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Qwen3.8-27B", "target": {"img_name": "26.jpg", "Da": 6.12, "Db": 0.23}}
+{"idx": 19, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "Qwen3.8-27B", "target": {"img_name": "27.jpg", "Da": 1.15, "Db": 4.19}}
+{"idx": 20, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "Qwen3.8-27B", "target": {"img_name": "28.jpg", "Da": 1.84, "Db": 0.52}}
+{"idx": 21, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Qwen3.8-27B", "target": {"img_name": "29.jpg", "Da": 5.89, "Db": 0.32}}
+{"idx": 22, "answer": "{\"Da\": 0.0, \"Db\": 0.0}", "model": "Qwen3.8-27B", "target": {"img_name": "3.jpg", "Da": 2.3, "Db": 1.35}}
+{"idx": 23, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Qwen3.8-27B", "target": {"img_name": "30.jpg", "Da": 2.07, "Db": 0.43}}
+{"idx": 24, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8-27B", "target": {"img_name": "31.jpg", "Da": 2.77, "Db": 0.77}}
+{"idx": 25, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Qwen3.8-27B", "target": {"img_name": "32.jpg", "Da": 5.2, "Db": 0.37}}
+{"idx": 26, "answer": "{\"Da\": 0.0, \"Db\": 0.0}", "model": "Qwen3.8-27B", "target": {"img_name": "33.jpg", "Da": 2.77, "Db": 0.37}}
+{"idx": 27, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Qwen3.8-27B", "target": {"img_name": "34.jpg", "Da": 5.43, "Db": 0.89}}
+{"idx": 28, "answer": "{\"Da\": 0.0, \"Db\": 0.0}", "model": "Qwen3.8-27B", "target": {"img_name": "35.jpg", "Da": 4.74, "Db": 0.54}}
+{"idx": 29, "answer": "{\"Da\": 0.0, \"Db\": 0.5}", "model": "Qwen3.8-27B", "target": {"img_name": "36.jpg", "Da": 0.92, "Db": 5.08}}
+{"idx": 30, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8-27B", "target": {"img_name": "37.jpg", "Da": 4.97, "Db": 1.06}}
+{"idx": 31, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Qwen3.8-27B", "target": {"img_name": "38.jpg", "Da": 4.28, "Db": 0.71}}
+{"idx": 32, "answer": "{\"Da\": 0.0, \"Db\": 0.0}", "model": "Qwen3.8-27B", "target": {"img_name": "39.jpg", "Da": 1.38, "Db": 4.71}}
+{"idx": 33, "answer": "{\"Da\": 0, \"Db\": 0}", "model": "Qwen3.8-27B", "target": {"img_name": "4.jpg", "Da": 0.69, "Db": 0.94}}
+{"idx": 34, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Qwen3.8-27B", "target": {"img_name": "40.jpg", "Da": 0.92, "Db": 4.28}}
+{"idx": 35, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "Qwen3.8-27B", "target": {"img_name": "5.jpg", "Da": 1.61, "Db": 1.4}}
+{"idx": 36, "answer": "{\"Da\": 0.0, \"Db\": 0.0}", "model": "Qwen3.8-27B", "target": {"img_name": "6.jpg", "Da": 2.77, "Db": 1.97}}
+{"idx": 37, "answer": "{\"Da\": 0.33, \"Db\": 0.33}", "model": "Qwen3.8-27B", "target": {"img_name": "7.jpg", "Da": 0.69, "Db": 1.14}}
+{"idx": 38, "answer": "{\n  \"Da\": 0.0,\n  \"Db\": 0.0\n}", "model": "Qwen3.8-27B", "target": {"img_name": "8.jpg", "Da": 1.61, "Db": 1.6}}
+{"idx": 39, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8-27B", "target": {"img_name": "9.jpg", "Da": 2.54, "Db": 2.06}}
+{"idx": 0, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.0\n}", "model": "Qwen3.8Flash", "target": {"img_name": "1.jpg", "Da": 2.54, "Db": 1.26}}
+{"idx": 1, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Flash", "target": {"img_name": "10.jpg", "Da": 0.69, "Db": 1.34}}
+{"idx": 2, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "Qwen3.8Flash", "target": {"img_name": "11.jpg", "Da": 1.38, "Db": 1.69}}
+{"idx": 3, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "Qwen3.8Flash", "target": {"img_name": "12.jpg", "Da": 2.07, "Db": 2.03}}
+{"idx": 4, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "Qwen3.8Flash", "target": {"img_name": "13.jpg", "Da": 2.77, "Db": 2.37}}
+{"idx": 5, "answer": "{\n  \"Da\": 0.0,\n  \"Db\": 0.5\n}", "model": "Qwen3.8Flash", "target": {"img_name": "14.jpg", "Da": 0.46, "Db": 1.63}}
+{"idx": 6, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Flash", "target": {"img_name": "15.jpg", "Da": 0.92, "Db": 1.86}}
+{"idx": 7, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.0\n}", "model": "Qwen3.8Flash", "target": {"img_name": "16.jpg", "Da": 1.38, "Db": 2.09}}
+{"idx": 8, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Flash", "target": {"img_name": "17.jpg", "Da": 1.84, "Db": 2.32}}
+{"idx": 9, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Flash", "target": {"img_name": "18.jpg", "Da": 2.3, "Db": 2.55}}
+{"idx": 10, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Flash", "target": {"img_name": "19.jpg", "Da": 3.0, "Db": 2.89}}
+{"idx": 11, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Flash", "target": {"img_name": "2.jpg", "Da": 0.92, "Db": 0.66}}
+{"idx": 12, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Flash", "target": {"img_name": "20.jpg", "Da": 0.23, "Db": 2.11}}
+{"idx": 13, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Flash", "target": {"img_name": "21.jpg", "Da": 0.69, "Db": 2.34}}
+{"idx": 14, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Flash", "target": {"img_name": "22.jpg", "Da": 1.61, "Db": 2.8}}
+{"idx": 15, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "Qwen3.8Flash", "target": {"img_name": "23.jpg", "Da": 2.07, "Db": 3.03}}
+{"idx": 16, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "Qwen3.8Flash", "target": {"img_name": "24.jpg", "Da": 2.54, "Db": 3.26}}
+{"idx": 17, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "Qwen3.8Flash", "target": {"img_name": "25.jpg", "Da": 3.0, "Db": 3.49}}
+{"idx": 18, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Flash", "target": {"img_name": "26.jpg", "Da": 6.12, "Db": 0.23}}
+{"idx": 19, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Flash", "target": {"img_name": "27.jpg", "Da": 1.15, "Db": 4.19}}
+{"idx": 20, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "Qwen3.8Flash", "target": {"img_name": "28.jpg", "Da": 1.84, "Db": 0.52}}
+{"idx": 21, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "Qwen3.8Flash", "target": {"img_name": "29.jpg", "Da": 5.89, "Db": 0.32}}
+{"idx": 22, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "Qwen3.8Flash", "target": {"img_name": "3.jpg", "Da": 2.3, "Db": 1.35}}
+{"idx": 23, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Flash", "target": {"img_name": "30.jpg", "Da": 2.07, "Db": 0.43}}
+{"idx": 24, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Flash", "target": {"img_name": "31.jpg", "Da": 2.77, "Db": 0.77}}
+{"idx": 25, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Flash", "target": {"img_name": "32.jpg", "Da": 5.2, "Db": 0.37}}
+{"idx": 26, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "Qwen3.8Flash", "target": {"img_name": "33.jpg", "Da": 2.77, "Db": 0.37}}
+{"idx": 27, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Flash", "target": {"img_name": "34.jpg", "Da": 5.43, "Db": 0.89}}
+{"idx": 28, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Flash", "target": {"img_name": "35.jpg", "Da": 4.74, "Db": 0.54}}
+{"idx": 29, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Flash", "target": {"img_name": "36.jpg", "Da": 0.92, "Db": 5.08}}
+{"idx": 30, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Flash", "target": {"img_name": "37.jpg", "Da": 4.97, "Db": 1.06}}
+{"idx": 31, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "Qwen3.8Flash", "target": {"img_name": "38.jpg", "Da": 4.28, "Db": 0.71}}
+{"idx": 32, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Qwen3.8Flash", "target": {"img_name": "39.jpg", "Da": 1.38, "Db": 4.71}}
+{"idx": 33, "answer": "{\n  \"Da\": 0.5,\n  \"Db\": 0.5\n}", "model": "Qwen3.8Flash", "target": {"img_name": "4.jpg", "Da": 0.69, "Db": 0.94}}
+{"idx": 34, "answer": "{\"Da\": 0.5, \"Db\": 0.0}", "model": "Qwen3.8Flash", "target": {"img_name": "40.jpg", "Da": 0.92, "Db": 4.28}}
+{"idx": 35, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Flash", "target": {"img_name": "5.jpg", "Da": 1.61, "Db": 1.4}}
+{"idx": 36, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Flash", "target": {"img_name": "6.jpg", "Da": 2.77, "Db": 1.97}}
+{"idx": 37, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Flash", "target": {"img_name": "7.jpg", "Da": 0.69, "Db": 1.14}}
+{"idx": 38, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Flash", "target": {"img_name": "8.jpg", "Da": 1.61, "Db": 1.6}}
+{"idx": 39, "answer": "{\"Da\": 0.5, \"Db\": 0.5}", "model": "Qwen3.8Flash", "target": {"img_name": "9.jpg", "Da": 2.54, "Db": 2.06}}
